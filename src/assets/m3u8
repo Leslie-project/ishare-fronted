@@ -1,0 +1,6 @@
+#EXTM3U
+## Generated with https://github.com/google/shaka-packager version 5d80895-release
+#EXT-X-MEDIA:TYPE=AUDIO,URI="http://valipl-vip.cp31.ott.cibntv.net/677450AEA0B35715D24244CF0/05008200005E6ACCE88BB7800000005DFF07E9-A53E-4183-B814-DB03BC09F286-1-110-1.m3u8?ccode=0502&duration=5941&expire=18000&psid=0bb3a31d4c42c6f795660f70d511b101&ups_client_netip=674e7f1f&ups_ts=1584090879&ups_userid=38675377&utid=ODOPFkliAUUCARstNe1IszJU&vid=XNDUyMTkyNDA1Ng%3D%3D&s=2bba195d2617443cbc3b&iv=1&sp=&bc=2&si=3&eo=0&vkey=Bff5b07ea2e0bae89f24ba96dbf14291f",GROUP-ID="default-audio-group",NAME="stream_0",AUTOSELECT=YES,CHANNELS="2"
+#EXT-X-STREAM-INF:BANDWIDTH=2726132,AVERAGE-BANDWIDTH=793238,CODECS="hev1.1.6.L93.90,mp4a.40.2",RESOLUTION=1281x538,AUDIO="default-audio-group"
+http://valipl-vip.cp31.ott.cibntv.net/677450AEC8B397177FF8A6948/05008200005E6ACCE88BB7800000005DFF07E9-A53E-4183-B814-DB03BC09F286-1-110-2.m3u8?ccode=0502&duration=5941&expire=18000&psid=0bb3a31d4c42c6f795660f70d511b101&ups_client_netip=674e7f1f&ups_ts=1584090879&ups_userid=38675377&utid=ODOPFkliAUUCARstNe1IszJU&vid=XNDUyMTkyNDA1Ng%3D%3D&s=2bba195d2617443cbc3b&iv=1&sp=&bc=2&si=3&eo=0&vkey=B30294174adb870f5480ccc78497a8e2b
+

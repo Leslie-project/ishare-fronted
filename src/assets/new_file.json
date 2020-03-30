@@ -1,0 +1,1332 @@
+mtopjsonp1({
+  "ret": [
+    "SUCCESS::调用成功"
+  ],
+  "data": {
+    "cost": 0.13900001347064972,
+    "data": {
+      "preview": {
+        "thumb_hd": [
+          "http://g2.ykimg.com/0525000B5E3C6648AD9AB81AC20F355A",
+          "http://g4.ykimg.com/0525010B5E3C6648AD9AB81AC20F355A",
+          "http://g2.ykimg.com/0525020B5E3C6648AD9AB81AC20F355A",
+          "http://g2.ykimg.com/0525030B5E3C6648AD9AB81AC20F355A",
+          "http://g2.ykimg.com/0525040B5E3C6648AD9AB81AC20F355A",
+          "http://g1.ykimg.com/0525050B5E3C6648AD9AB81AC20F355A",
+          "http://g2.ykimg.com/0525060B5E3C6648AD9AB81AC20F355A",
+          "http://g4.ykimg.com/0525070B5E3C6648AD9AB81AC20F355A",
+          "http://g3.ykimg.com/0525080B5E3C6648AD9AB81AC20F355A",
+          "http://g3.ykimg.com/0525090B5E3C6648AD9AB81AC20F355A",
+          "http://g4.ykimg.com/05250A0B5E3C6648AD9AB81AC20F355A"
+        ],
+        "thumb": [
+          "http://g1.ykimg.com/0525000B5E3C6648AD9AB81AC20F355A?x-oss-process=image/resize,m_fill,limit_0,h_720,w_1280/format,jpg",
+          "http://g3.ykimg.com/0525010B5E3C6648AD9AB81AC20F355A?x-oss-process=image/resize,m_fill,limit_0,h_720,w_1280/format,jpg",
+          "http://g2.ykimg.com/0525020B5E3C6648AD9AB81AC20F355A?x-oss-process=image/resize,m_fill,limit_0,h_720,w_1280/format,jpg",
+          "http://g3.ykimg.com/0525030B5E3C6648AD9AB81AC20F355A?x-oss-process=image/resize,m_fill,limit_0,h_720,w_1280/format,jpg",
+          "http://g4.ykimg.com/0525040B5E3C6648AD9AB81AC20F355A?x-oss-process=image/resize,m_fill,limit_0,h_720,w_1280/format,jpg",
+          "http://g4.ykimg.com/0525050B5E3C6648AD9AB81AC20F355A?x-oss-process=image/resize,m_fill,limit_0,h_720,w_1280/format,jpg",
+          "http://g2.ykimg.com/0525060B5E3C6648AD9AB81AC20F355A?x-oss-process=image/resize,m_fill,limit_0,h_720,w_1280/format,jpg",
+          "http://g1.ykimg.com/0525070B5E3C6648AD9AB81AC20F355A?x-oss-process=image/resize,m_fill,limit_0,h_720,w_1280/format,jpg",
+          "http://g2.ykimg.com/0525080B5E3C6648AD9AB81AC20F355A?x-oss-process=image/resize,m_fill,limit_0,h_720,w_1280/format,jpg",
+          "http://g2.ykimg.com/0525090B5E3C6648AD9AB81AC20F355A?x-oss-process=image/resize,m_fill,limit_0,h_720,w_1280/format,jpg",
+          "http://g3.ykimg.com/05250A0B5E3C6648AD9AB81AC20F355A?x-oss-process=image/resize,m_fill,limit_0,h_720,w_1280/format,jpg"
+        ],
+        "timespan": "6000"
+      },
+      "controller": {
+        "comment_disable": false,
+        "ad_https": 0,
+        "yi_plus": "false",
+        "download_disable_tudou": false,
+        "download_disable": true,
+        "app_disable": false,
+        "new_core": false,
+        "buy_guide": false,
+        "continuous": false,
+        "tipSwitch": false,
+        "download_status": "[\"vip_allowed\"]",
+        "share_disable": false,
+        "is_phone_stream": "0",
+        "play_mode": 2,
+        "like_disabled": false,
+        "baipai_source": "",
+        "circle": false,
+        "pay_info_ext": "{\"can_play\":false}",
+        "stream_mode": 1,
+        "html5_disable": false,
+        "video_capture": true
+      },
+      "watermark": [
+        {
+          "displayDTOS": [
+            {
+              "duration": 0,
+              "posX": 44,
+              "posY": 44,
+              "start": 0,
+              "width": 344,
+              "height": 48
+            }
+          ],
+          "rsUrl": "https://ykimg.alicdn.com/product/image/2019-11-14/869e44deb2cfdf70256a4fb705f3580b.png",
+          "alpha": 1,
+          "type": 17,
+          "refWnd": 0,
+          "displayMode": 1,
+          "rsType": 0,
+          "autoScale": 1,
+          "refCoord": 1
+        },
+        {
+          "displayDTOS": [
+            {
+              "duration": 0,
+              "posX": 28,
+              "posY": 28,
+              "start": 0,
+              "width": 193,
+              "height": 28
+            }
+          ],
+          "rsUrl": "https://ykimg.alicdn.com/product/image/2019-11-14/720e6c331114079703ddf90c0f764d40.png",
+          "alpha": 1,
+          "type": 17,
+          "refWnd": 0,
+          "displayMode": 0,
+          "rsType": 0,
+          "autoScale": 1,
+          "refCoord": 1
+        },
+        {
+          "displayDTOS": [
+            {
+              "duration": 15000,
+              "posX": 30,
+              "posY": 100,
+              "start": 0,
+              "width": 240,
+              "height": 20
+            }
+          ],
+          "textSize": 16,
+          "alpha": 0.2,
+          "text": "电审故字[2019]第432号",
+          "type": 3,
+          "refWnd": 0,
+          "textColor": "#FFFFFF",
+          "displayMode": 0,
+          "rsType": 1,
+          "autoScale": 1,
+          "refCoord": 1
+        }
+      ],
+      "ad": {
+        "VAL": [
+          
+        ],
+        "P": 1,
+        "VER": "3.0",
+        "SKIP": 1,
+        "REQID": "0b01e03500000c4a5e673978000025cc"
+      },
+      "playlog": {
+        "lastpoint": "0"
+      },
+      "fee": {
+        "own_channel_id": 0,
+        "ad": 0,
+        "trial_type": "time",
+        "paid": 1,
+        "paid_type": [
+          "mon"
+        ],
+        "video_type": 0
+      },
+      "show": {
+        "copyright": "1",
+        "show_thumburl": "http://r1.ykimg.com/050B00005E5E09AD1B7691E74D0DB74E",
+        "show_vthumburl_huge": "http://r1.ykimg.com/053400005E5E09C31B7691E66C0B1E1C",
+        "license_num": "电审故字[2019]第432号",
+        "show_videotype": "正片",
+        "pay": 1,
+        "show_vthumburl_big_jpg": "http://r1.ykimg.com/050E00005E5E09AF1B7691E7B60BFF96",
+        "show_thumburl_huge": "http://r1.ykimg.com/053500005E5E09BD1B7691E76D0149D7",
+        "title": "叶问4：完结篇",
+        "encodeid": "0a894d74f8f44a129362",
+        "show_vthumburl": "http://r1.ykimg.com/050D00005E5E09AF1B7691E7B60BFF96",
+        "video_type": 1,
+        "stage": 1,
+        "exclusive": false,
+        "pay_type": [
+          "mon"
+        ],
+        "id": 417012,
+        "showcategory": "电影",
+        "video_pay": 1,
+        "show_thumburl_big_jpg": "http://r1.ykimg.com/050C00005E5E09AD1B7691E74D0DB74E",
+        "episode_total": 2
+      },
+      "pay": {
+        "duration": 2,
+        "can_play": false,
+        "discount_price": "",
+        "price": "12"
+      },
+      "bresults": "{\"adItem\":{},\"clarityAll\":{\"yue\":[\"mp5hd4\",\"hls4hd3_sdr\",\"hls5hd3_sdr\",\"mp5hd3\",\"mp4hd3v2\",\"mp5hd2\",\"mp4hd2v2\",\"mp5hd\",\"mp4hd\",\"mp5sd\",\"mp4sd\",\"3gphd\"],\"guoyu\":[\"mp5hd4\",\"hls4hd3_sdr\",\"hls5hd3_sdr\",\"mp5hd3\",\"mp4hd3v2\",\"mp5hd2\",\"mp4hd2v2\",\"mp5hd\",\"mp4hd\",\"mp5sd\",\"mp4sd\",\"3gphd\"]},\"clarityStream\":{\"yue\":[\"mp5sd\",\"mp4sd\",\"mp4hd2v2\",\"mp5hd4\",\"mp5hd3\",\"3gphd\",\"mp5hd\",\"mp5hd2\",\"mp4hd\",\"mp4hd3v2\"],\"guoyu\":[\"mp5hd4\",\"3gphd\",\"mp4hd\",\"mp4hd3v2\",\"mp5sd\",\"mp4sd\",\"mp4hd2v2\",\"mp5hd3\",\"mp5hd\",\"mp5hd2\"]},\"playCode\":\"1\",\"upStreamCodeList\":[{\"code\":\"200\",\"serviceName\":\"SHOW_SHOW\"},{\"code\":\"200\",\"serviceName\":\"VIDEOINFO\"},{\"code\":\"200\",\"serviceName\":\"GET_PAID_VIDEO_INFO\"},{\"code\":\"200\",\"serviceName\":\"YKS_POLICY\"},{\"code\":\"200\",\"serviceName\":\"VIDEO_SHOW\"}]}",
+      "video": {
+        "category_letter_id": "c",
+        "limited": 0,
+        "privacy": "anybody",
+        "stream_types": {
+          "yue": [
+            "mp5hd4",
+            "hls4hd3_sdr",
+            "hls5hd3_sdr",
+            "mp5hd3",
+            "mp4hd3v2",
+            "mp5hd2",
+            "mp4hd2v2",
+            "mp5hd",
+            "mp4hd",
+            "mp5sd",
+            "mp4sd",
+            "3gphd"
+          ],
+          "guoyu": [
+            "mp5hd4",
+            "hls4hd3_sdr",
+            "hls5hd3_sdr",
+            "mp5hd3",
+            "mp4hd3v2",
+            "mp5hd2",
+            "mp4hd2v2",
+            "mp5hd",
+            "mp4hd",
+            "mp5sd",
+            "mp4sd",
+            "3gphd"
+          ]
+        },
+        "title": "叶问4：完结篇",
+        "type": [
+          "show",
+          "dvd",
+          "original",
+          "bullet",
+          "fee"
+        ],
+        "stream_ext": {
+          "yue": {
+            "mp5sd": {
+              "size": 255741664,
+              "resolu": 360,
+              "fps": 25
+            },
+            "mp5hd2": {
+              "size": 733410372,
+              "resolu": 720,
+              "fps": 25
+            },
+            "mp4sd": {
+              "size": 310829823,
+              "resolu": 360,
+              "fps": 25
+            },
+            "mp5hd3": {
+              "size": 1195711396,
+              "resolu": 1080,
+              "fps": 25
+            },
+            "mp5hd4": {
+              "size": 3334374768,
+              "resolu": 4096,
+              "fps": 25
+            },
+            "hls4hd3_sdr": {
+              "size": 1583147060,
+              "resolu": 1080,
+              "fps": 25
+            },
+            "3gphd": {
+              "size": 170294863,
+              "resolu": 270,
+              "fps": 25
+            },
+            "hls5hd3_sdr": {
+              "size": 1333678204,
+              "resolu": 1080,
+              "fps": 25
+            },
+            "mp4hd2v2": {
+              "size": 831988186,
+              "resolu": 720,
+              "fps": 25
+            },
+            "mp5hd": {
+              "size": 423737148,
+              "resolu": 540,
+              "fps": 25
+            },
+            "mp4hd": {
+              "size": 507620234,
+              "resolu": 540,
+              "fps": 25
+            },
+            "mp4hd3v2": {
+              "size": 1542692647,
+              "resolu": 1080,
+              "fps": 25
+            }
+          },
+          "guoyu": {
+            "mp5sd": {
+              "size": 255799004,
+              "resolu": 360,
+              "fps": 25
+            },
+            "mp5hd2": {
+              "size": 733120664,
+              "resolu": 720,
+              "fps": 25
+            },
+            "mp4sd": {
+              "size": 310830732,
+              "resolu": 360,
+              "fps": 25
+            },
+            "mp5hd3": {
+              "size": 1195625480,
+              "resolu": 1080,
+              "fps": 25
+            },
+            "mp5hd4": {
+              "size": 3334048776,
+              "resolu": 4096,
+              "fps": 25
+            },
+            "hls4hd3_sdr": {
+              "size": 1582989516,
+              "resolu": 1080,
+              "fps": 25
+            },
+            "3gphd": {
+              "size": 170290175,
+              "resolu": 270,
+              "fps": 25
+            },
+            "hls5hd3_sdr": {
+              "size": 1333417072,
+              "resolu": 1080,
+              "fps": 25
+            },
+            "mp4hd2v2": {
+              "size": 831948739,
+              "resolu": 720,
+              "fps": 25
+            },
+            "mp5hd": {
+              "size": 423747864,
+              "resolu": 540,
+              "fps": 25
+            },
+            "mp4hd": {
+              "size": 507647571,
+              "resolu": 540,
+              "fps": 25
+            },
+            "mp4hd3v2": {
+              "size": 1542691157,
+              "resolu": 1080,
+              "fps": 25
+            }
+          }
+        },
+        "userid": 97454045,
+        "encodeid": "XNDUzNTU1ODQzMg==",
+        "tags": [
+          
+        ],
+        "uid": 97454045,
+        "seconds": 6419.72,
+        "category_id": 96,
+        "ctype": "媒资",
+        "weburl": "http://v.youku.com/v_show/id_XNDUzNTU1ODQzMg==.html",
+        "audioOnly": 0,
+        "drm_type": "default",
+        "smart_tile": 0,
+        "logo": "https://vthumb.ykimg.com/054101015E3E3DF80F954C9B751A9290",
+        "videoid_play": 1133889608,
+        "id": 1133889608,
+        "subcategories": [
+          {
+            "name": "香港",
+            "id": "2040"
+          },
+          {
+            "name": "剧情",
+            "id": "2050"
+          },
+          {
+            "name": "动作",
+            "id": "2060"
+          }
+        ],
+        "st_sorted": 1,
+        "username": "优酷会员"
+      },
+      "hlsFirstSlices": [
+        {
+          "firstSliceSequenceNum": 0,
+          "firstSliceDur": 10000,
+          "langCode": "guoyu",
+          "firstSlicePos": 0,
+          "stream_type": "flvhd",
+          "firstSliceSize": 327120,
+          "firstSlice": "http://valipl-vip.cp31.ott.cibntv.net/69743C684453171423ACA3A07/03000500005E40C44AD347505CF07D4C884191-3289-4FE3-84D1-2FE0A3D8CC4F-00001.ts?ccode=0502&duration=6419&expire=18000&psid=79ddc25517f52e914b971dc46e543e8d&ups_client_netip=674e7f1d&ups_ts=1583823223&ups_userid=&utid=ODOPFkliAUUCARstNe1IszJU&vid=XNDUzNTU1ODQzMg%3D%3D&vkey=Ba6f73f9fbeb7e693697521cde0ec51dc&sm=1&dre=u54&si=91&eo=1&dst=11&iv=0&s=0a894d74f8f44a129362&bc=2"
+        }
+      ],
+      "trial": {
+        "trial_str": "您可以免费试看前6分钟",
+        "trial_str_end": "您可以免费试看前6分钟",
+        "time": 360,
+        "type": "time",
+        "episodes": "0",
+        "look_ten_type": 2
+      },
+      "network": {
+        "country_code": "CN",
+        "province": "湖南省",
+        "area_code": "430100",
+        "isp": "铁通",
+        "dma_code": "24143"
+      },
+      "master": [
+        {
+          "subtitle": "default",
+          "h264": "#EXTM3U\r\n#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=219716,SIZE=176294744,FPS=25,RESOLU=270,CODECS=\"avc1,mp4a\",STREAMTYPE=\"3gphd\"\r\nhttp://valipl.cp31.ott.cibntv.net/6773B96AEA24471C1C76632A5/03000300005E40C44AD347505CF07D1311E8D4-19CD-4BF9-9C2B-E36A4CAE264D-1-110.m3u8?ccode=0502&duration=6419&expire=18000&psid=79ddc25517f52e914b971dc46e543e8d&ups_client_netip=674e7f1d&ups_ts=1583823223&ups_userid=&utid=ODOPFkliAUUCARstNe1IszJU&vid=XNDUzNTU1ODQzMg%3D%3D&vkey=B8f4a4b30b85f0902709a78857e2131ba&sm=1&operate_type=0&dre=u37&si=73&eo=1&dst=1&iv=0&s=0a894d74f8f44a129362&bc=2\r\n#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=358802,SIZE=287894176,FPS=25,RESOLU=360,CODECS=\"avc1,mp4a\",STREAMTYPE=\"flvhd\"\r\nhttp://valipl.cp31.ott.cibntv.net/65721E34C633471565E774634/03000500005E40C44AD347505CF07D4C884191-3289-4FE3-84D1-2FE0A3D8CC4F-1-110.m3u8?ccode=0502&duration=6419&expire=18000&psid=79ddc25517f52e914b971dc46e543e8d&ups_client_netip=674e7f1d&ups_ts=1583823223&ups_userid=&utid=ODOPFkliAUUCARstNe1IszJU&vid=XNDUzNTU1ODQzMg%3D%3D&vkey=Bcedf9e166f1d20b9b7a37948f07a6a96&sm=1&operate_type=0&dre=u37&si=73&eo=1&dst=1&iv=0&s=0a894d74f8f44a129362&bc=2\r\n#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=633698,SIZE=508463672,FPS=25,RESOLU=540,CODECS=\"avc1,mp4a\",STREAMTYPE=\"mp4hd\"\r\nhttp://valipl.cp31.ott.cibntv.net/6572A310C544371BB10D72C2C/03000600005E40C44AD347505CF07DA26CD7E8-69AC-4564-A608-EFD67679E524-1-110.m3u8?ccode=0502&duration=6419&expire=18000&psid=79ddc25517f52e914b971dc46e543e8d&ups_client_netip=674e7f1d&ups_ts=1583823223&ups_userid=&utid=ODOPFkliAUUCARstNe1IszJU&vid=XNDUzNTU1ODQzMg%3D%3D&vkey=Bd77e8da9ca280c22371078a415769b38&sm=1&operate_type=0&dre=u37&si=73&eo=1&dst=1&iv=0&s=0a894d74f8f44a129362&bc=2\r\n#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1026144,SIZE=823352768,FPS=25,RESOLU=720,CODECS=\"avc1,mp4a\",STREAMTYPE=\"mp4hd2\"\r\nhttp://valipl.cp31.ott.cibntv.net/6572FA144073F71A0369B5D27/03000700005E40C44AD347505CF07DF29A4379-E02D-409B-BBC9-7E8E5C9CBF49-1-110.m3u8?ccode=0502&duration=6419&expire=18000&psid=79ddc25517f52e914b971dc46e543e8d&ups_client_netip=674e7f1d&ups_ts=1583823223&ups_userid=&utid=ODOPFkliAUUCARstNe1IszJU&vid=XNDUzNTU1ODQzMg%3D%3D&vkey=B6df8716669d35241429f831971e3fb7f&sm=1&operate_type=0&dre=u37&si=73&eo=1&dst=1&iv=0&s=0a894d74f8f44a129362&bc=2\r\n#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1798490,SIZE=1443063560,FPS=25,RESOLU=1080,CODECS=\"avc1,mp4a\",STREAMTYPE=\"mp4hd3\"\r\nhttp://valipl.cp31.ott.cibntv.net/6975C220B2E4D71FE326C25A7/03000900005E40C44AD347505CF07D628899F7-F83C-4038-B588-C12441758967-1-110.m3u8?ccode=0502&duration=6419&expire=18000&psid=79ddc25517f52e914b971dc46e543e8d&ups_client_netip=674e7f1d&ups_ts=1583823223&ups_userid=&utid=ODOPFkliAUUCARstNe1IszJU&vid=XNDUzNTU1ODQzMg%3D%3D&vkey=B846d361aa07a28b6390bbed56eedbed1&sm=1&operate_type=0&dre=u37&si=73&eo=1&dst=1&iv=0&s=0a894d74f8f44a129362&bc=2\r\n#EXT-X-ENDLIST\r\n",
+          "h265": "#EXTM3U\r\n#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=318802,SIZE=255799004,FPS=25,RESOLU=360,CODECS=\"hvc1,mp4a\",STREAMTYPE=\"mp5sd\"\r\nhttp://valipl.cp31.ott.cibntv.net/697490206383F71A0369B4255/05000700005E40C44AD347505CF07D20BB80CD-6E25-4102-8F48-B8CFA6BD4A60-1-110.m3u8?ccode=0502&duration=6419&expire=18000&psid=79ddc25517f52e914b971dc46e543e8d&ups_client_netip=674e7f1d&ups_ts=1583823223&ups_userid=&utid=ODOPFkliAUUCARstNe1IszJU&vid=XNDUzNTU1ODQzMg%3D%3D&vkey=Beb6793d02ee9d519cfe2721f2df7b075&sm=1&operate_type=0&dre=u37&si=73&eo=1&dst=1&iv=0&s=0a894d74f8f44a129362&bc=2\r\n#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=528116,SIZE=423747864,FPS=25,RESOLU=540,CODECS=\"hvc1,mp4a\",STREAMTYPE=\"mp5hd\"\r\nhttp://valipl.cp31.ott.cibntv.net/67746D226234E7204E8FA3D5C/05000900005E40C44AD347505CF07DD30748CE-DE4A-4716-BA1F-3E4957804CFD-1-110.m3u8?ccode=0502&duration=6419&expire=18000&psid=79ddc25517f52e914b971dc46e543e8d&ups_client_netip=674e7f1d&ups_ts=1583823223&ups_userid=&utid=ODOPFkliAUUCARstNe1IszJU&vid=XNDUzNTU1ODQzMg%3D%3D&vkey=Bd91e2be70a4b3835303feaa3b24af9f0&sm=1&operate_type=0&dre=u37&si=73&eo=1&dst=1&iv=0&s=0a894d74f8f44a129362&bc=2\r\n#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=913688,SIZE=733120664,FPS=25,RESOLU=720,CODECS=\"hvc1,mp4a\",STREAMTYPE=\"mp5hd2\"\r\nhttp://valipl.cp31.ott.cibntv.net/6572C86C40A38717138B330EE/05000A00005E40C44AD347505CF07D6AC16240-1F22-4547-AF5F-660252C031AA-1-110.m3u8?ccode=0502&duration=6419&expire=18000&psid=79ddc25517f52e914b971dc46e543e8d&ups_client_netip=674e7f1d&ups_ts=1583823223&ups_userid=&utid=ODOPFkliAUUCARstNe1IszJU&vid=XNDUzNTU1ODQzMg%3D%3D&vkey=Bcf4ca78034a3b7bb50d89a5c728062c5&sm=1&operate_type=0&dre=u37&si=73&eo=1&dst=1&iv=0&s=0a894d74f8f44a129362&bc=2\r\n#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1490108,SIZE=1195625480,FPS=25,RESOLU=1080,CODECS=\"hvc1,mp4a\",STREAMTYPE=\"mp5hd3\"\r\nhttp://valipl.cp31.ott.cibntv.net/65726A8068C38717138B36B34/05000B00005E40C44AD347505CF07DDC94D576-231C-4EFA-97E4-3862E54E6721-1-110.m3u8?ccode=0502&duration=6419&expire=18000&psid=79ddc25517f52e914b971dc46e543e8d&ups_client_netip=674e7f1d&ups_ts=1583823223&ups_userid=&utid=ODOPFkliAUUCARstNe1IszJU&vid=XNDUzNTU1ODQzMg%3D%3D&vkey=B4efcb0f731038b5433c4f28345c8c580&sm=1&operate_type=0&dre=u37&si=73&eo=1&dst=1&iv=0&s=0a894d74f8f44a129362&bc=2\r\n#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4155225,SIZE=3334048776,FPS=25,RESOLU=4096,CODECS=\"hvc1,mp4a\",STREAMTYPE=\"mp5hd4\"\r\nhttp://valipl.cp31.ott.cibntv.net/6773F6369F03C718C12EE37ED/05000C00005E40C44FD347505CF07DC5886ACA-E9F7-401C-A64D-9969AC6B5F46-1-110.m3u8?ccode=0502&duration=6419&expire=18000&psid=79ddc25517f52e914b971dc46e543e8d&ups_client_netip=674e7f1d&ups_ts=1583823223&ups_userid=&utid=ODOPFkliAUUCARstNe1IszJU&vid=XNDUzNTU1ODQzMg%3D%3D&vkey=B9425b2e072a8ea67978b7d3757869bc4&sm=1&operate_type=0&dre=u37&si=73&eo=1&dst=1&iv=0&s=0a894d74f8f44a129362&bc=2\r\n#EXT-X-ENDLIST\r\n",
+          "logo": "none",
+          "language": "guoyu"
+        },
+        {
+          "subtitle": "default",
+          "h264": "#EXTM3U\r\n#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=219679,SIZE=176265416,FPS=25,RESOLU=270,CODECS=\"avc1,mp4a\",STREAMTYPE=\"3gphd\"\r\nhttp://valipl.cp31.ott.cibntv.net/677475204024071A6ED2A6607/03000300005E4936D1A6DB505CF07D12D73213-719D-402E-BC0E-1B94E56D2FDE-1-110.m3u8?ccode=0502&duration=6419&expire=18000&psid=79ddc25517f52e914b971dc46e543e8d&ups_client_netip=674e7f1d&ups_ts=1583823223&ups_userid=&utid=ODOPFkliAUUCARstNe1IszJU&vid=XNDUzNTU1ODUyOA%3D%3D&vkey=Bf855de67c46449a60c84678792a592e2&sm=1&operate_type=0&dre=u37&si=73&eo=1&dst=1&iv=0&s=0a894d74f8f44a129362&bc=2\r\n#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=358773,SIZE=287870676,FPS=25,RESOLU=360,CODECS=\"avc1,mp4a\",STREAMTYPE=\"flvhd\"\r\nhttp://valipl.cp31.ott.cibntv.net/657304585E23471565E7734A3/03000500005E4936D1A6DB505CF07D6839E1BE-6093-4516-BEF4-3F24D749F4A2-1-110.m3u8?ccode=0502&duration=6419&expire=18000&psid=79ddc25517f52e914b971dc46e543e8d&ups_client_netip=674e7f1d&ups_ts=1583823223&ups_userid=&utid=ODOPFkliAUUCARstNe1IszJU&vid=XNDUzNTU1ODUyOA%3D%3D&vkey=B443b6a95756cf006c19ef06ec4db51bf&sm=1&operate_type=0&dre=u37&si=73&eo=1&dst=1&iv=0&s=0a894d74f8f44a129362&bc=2\r\n#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=633787,SIZE=508534924,FPS=25,RESOLU=540,CODECS=\"avc1,mp4a\",STREAMTYPE=\"mp4hd\"\r\nhttp://valipl.cp31.ott.cibntv.net/657307CCAFE327148F15935CD/03000600005E4936D1A6DB505CF07DC8410CDA-A718-465F-BFD1-9D1F2001CC82-1-110.m3u8?ccode=0502&duration=6419&expire=18000&psid=79ddc25517f52e914b971dc46e543e8d&ups_client_netip=674e7f1d&ups_ts=1583823223&ups_userid=&utid=ODOPFkliAUUCARstNe1IszJU&vid=XNDUzNTU1ODUyOA%3D%3D&vkey=B53a108a888e7f7c2fc4b117a57c213ab&sm=1&operate_type=0&dre=u37&si=73&eo=1&dst=1&iv=0&s=0a894d74f8f44a129362&bc=2\r\n#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1026211,SIZE=823406348,FPS=25,RESOLU=720,CODECS=\"avc1,mp4a\",STREAMTYPE=\"mp4hd2\"\r\nhttp://valipl.cp31.ott.cibntv.net/6572AED4DD63F71A0369B4E2D/03000700005E4936D1A6DB505CF07DA68993AD-309A-4068-A993-75CF2E4F6BB1-1-110.m3u8?ccode=0502&duration=6419&expire=18000&psid=79ddc25517f52e914b971dc46e543e8d&ups_client_netip=674e7f1d&ups_ts=1583823223&ups_userid=&utid=ODOPFkliAUUCARstNe1IszJU&vid=XNDUzNTU1ODUyOA%3D%3D&vkey=B5a5fcf5fba43ac14f986d26339275a80&sm=1&operate_type=0&dre=u37&si=73&eo=1&dst=1&iv=0&s=0a894d74f8f44a129362&bc=2\r\n#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1798138,SIZE=1442781560,FPS=25,RESOLU=1080,CODECS=\"avc1,mp4a\",STREAMTYPE=\"mp4hd3\"\r\nhttp://valipl.cp31.ott.cibntv.net/6773838E69A397177EF422E24/03000900005E4936D1A6DB505CF07DEF428287-C6AE-420A-93CB-AEF600045E8E-1-110.m3u8?ccode=0502&duration=6419&expire=18000&psid=79ddc25517f52e914b971dc46e543e8d&ups_client_netip=674e7f1d&ups_ts=1583823223&ups_userid=&utid=ODOPFkliAUUCARstNe1IszJU&vid=XNDUzNTU1ODUyOA%3D%3D&vkey=Bfa06e27d61854d9bbed19cd81b38f68c&sm=1&operate_type=0&dre=u37&si=73&eo=1&dst=1&iv=0&s=0a894d74f8f44a129362&bc=2\r\n#EXT-X-ENDLIST\r\n",
+          "h265": "#EXTM3U\r\n#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=318730,SIZE=255741664,FPS=25,RESOLU=360,CODECS=\"hvc1,mp4a\",STREAMTYPE=\"mp5sd\"\r\nhttp://valipl.cp31.ott.cibntv.net/697518C8D003171423ACA6C53/05000700005E4936D1A6DB505CF07D1908FF25-12BD-4F7A-A0F7-301556B4345F-1-110.m3u8?ccode=0502&duration=6419&expire=18000&psid=79ddc25517f52e914b971dc46e543e8d&ups_client_netip=674e7f1d&ups_ts=1583823223&ups_userid=&utid=ODOPFkliAUUCARstNe1IszJU&vid=XNDUzNTU1ODUyOA%3D%3D&vkey=B06cbfdaf179ab23e7210e61490bf703b&sm=1&operate_type=0&dre=u37&si=73&eo=1&dst=1&iv=0&s=0a894d74f8f44a129362&bc=2\r\n#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=528103,SIZE=423737148,FPS=25,RESOLU=540,CODECS=\"hvc1,mp4a\",STREAMTYPE=\"mp5hd\"\r\nhttp://valipl.cp31.ott.cibntv.net/69748B10B194A71EA0EBF3CBB/05000900005E4936D1A6DB505CF07D98A3BA2C-0E7A-4691-8F40-6878D5DC66C2-1-110.m3u8?ccode=0502&duration=6419&expire=18000&psid=79ddc25517f52e914b971dc46e543e8d&ups_client_netip=674e7f1d&ups_ts=1583823223&ups_userid=&utid=ODOPFkliAUUCARstNe1IszJU&vid=XNDUzNTU1ODUyOA%3D%3D&vkey=Bd6d0e235d064845f33271e8e185e8dd3&sm=1&operate_type=0&dre=u37&si=73&eo=1&dst=1&iv=0&s=0a894d74f8f44a129362&bc=2\r\n#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=914049,SIZE=733410372,FPS=25,RESOLU=720,CODECS=\"hvc1,mp4a\",STREAMTYPE=\"mp5hd2\"\r\nhttp://valipl.cp31.ott.cibntv.net/697510E0DB24171ADA3B96665/05000A00005E4936D1A6DB505CF07DEE70F7B8-99AB-4A67-9FFA-45DECB9382D7-1-110.m3u8?ccode=0502&duration=6419&expire=18000&psid=79ddc25517f52e914b971dc46e543e8d&ups_client_netip=674e7f1d&ups_ts=1583823223&ups_userid=&utid=ODOPFkliAUUCARstNe1IszJU&vid=XNDUzNTU1ODUyOA%3D%3D&vkey=B24b1edb6413ade1d56369c78627e845a&sm=1&operate_type=0&dre=u37&si=73&eo=1&dst=1&iv=0&s=0a894d74f8f44a129362&bc=2\r\n#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1490215,SIZE=1195711396,FPS=25,RESOLU=1080,CODECS=\"hvc1,mp4a\",STREAMTYPE=\"mp5hd3\"\r\nhttp://valipl.cp31.ott.cibntv.net/6774211AFB935715D150663FA/05000B00005E4936D1A6DB505CF07D858782D3-B21C-4B3C-AE0D-9CC5BCD645AD-1-110.m3u8?ccode=0502&duration=6419&expire=18000&psid=79ddc25517f52e914b971dc46e543e8d&ups_client_netip=674e7f1d&ups_ts=1583823223&ups_userid=&utid=ODOPFkliAUUCARstNe1IszJU&vid=XNDUzNTU1ODUyOA%3D%3D&vkey=B85e341f9e4e3950f285b40c22b15821e&sm=1&operate_type=0&dre=u37&si=73&eo=1&dst=1&iv=0&s=0a894d74f8f44a129362&bc=2\r\n#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4155631,SIZE=3334374768,FPS=25,RESOLU=4096,CODECS=\"hvc1,mp4a\",STREAMTYPE=\"mp5hd4\"\r\nhttp://valipl.cp31.ott.cibntv.net/6773E64052B37716A82245F6B/05000C00005E4936D6A6DB505CF07D01471711-99EC-40E3-A43E-BAD421F1F696-1-110.m3u8?ccode=0502&duration=6419&expire=18000&psid=79ddc25517f52e914b971dc46e543e8d&ups_client_netip=674e7f1d&ups_ts=1583823223&ups_userid=&utid=ODOPFkliAUUCARstNe1IszJU&vid=XNDUzNTU1ODUyOA%3D%3D&vkey=B6cde918397d8b43d55309d593e820bbe&sm=1&operate_type=0&dre=u37&si=73&eo=1&dst=1&iv=0&s=0a894d74f8f44a129362&bc=2\r\n#EXT-X-ENDLIST\r\n",
+          "logo": "none",
+          "language": "yue"
+        }
+      ],
+      "dvd": {
+        "audiolang": [
+          {
+            "vid": "XNDUzNTU1ODQzMg==",
+            "langcode": "guoyu",
+            "lang": "普通话"
+          },
+          {
+            "vid": "XNDUzNTU1ODUyOA==",
+            "langcode": "yue",
+            "lang": "粤语"
+          }
+        ],
+        "notsharing": "0",
+        "point": [
+          {
+            "ctype": "story",
+            "start": "216255",
+            "title": "同门师兄弟互相切磋 比利千里报信",
+            "desc": ""
+          },
+          {
+            "ctype": "story",
+            "start": "799532",
+            "title": "万会长恶意刁难 \"神仙打架\"硬碰硬",
+            "desc": ""
+          },
+          {
+            "ctype": "story",
+            "start": "1455957",
+            "title": "寸拳打飞悍将一枚 李小龙出尽风头",
+            "desc": ""
+          },
+          {
+            "ctype": "standard",
+            "start": "1691154",
+            "title": "",
+            "desc": ""
+          },
+          {
+            "ctype": "story",
+            "start": "1850202",
+            "title": "李小龙吊打外国人 双节棍出神入化",
+            "desc": ""
+          },
+          {
+            "ctype": "story",
+            "start": "2211411",
+            "title": "若男遭遇校园暴力 叶问慷慨施援手",
+            "desc": ""
+          },
+          {
+            "ctype": "story",
+            "start": "2517935",
+            "title": "万会长会错意 叶问单手出拳Man爆",
+            "desc": ""
+          },
+          {
+            "ctype": "story",
+            "start": "3049065",
+            "title": "赫文饱受种族歧视 惨被空手道暴虐",
+            "desc": ""
+          },
+          {
+            "ctype": "story",
+            "start": "3315104",
+            "title": "若男伪造介绍信 满脸委屈控诉父亲",
+            "desc": ""
+          },
+          {
+            "ctype": "story",
+            "start": "4000421",
+            "title": "洋人侮辱中国武术 叶问用实力说话",
+            "desc": ""
+          },
+          {
+            "ctype": "standard",
+            "start": "4259771",
+            "title": "",
+            "desc": ""
+          },
+          {
+            "ctype": "story",
+            "start": "4740212",
+            "title": "万会长勇敢迎战 极限对决被打入院",
+            "desc": ""
+          },
+          {
+            "ctype": "story",
+            "start": "5171553",
+            "title": "知父亲身患癌症 阿正悔不当初痛哭",
+            "desc": ""
+          },
+          {
+            "ctype": "story",
+            "start": "5418943",
+            "title": "强! 叶问独闯美军大营单挑特种兵",
+            "desc": ""
+          },
+          {
+            "ctype": "epilogue",
+            "start": "6064563",
+            "title": "影片将尽，留住精彩",
+            "desc": ""
+          }
+        ]
+      },
+      "stream": [
+        {
+          "_4k_mark": true,
+          "audio_lang": "guoyu",
+          "milliseconds_audio": 6419691,
+          "milliseconds_video": 6419708,
+          "segs": [
+            {
+              "size": 3334048776,
+              "total_milliseconds_video": 6419708,
+              "total_milliseconds_audio": 6419691,
+              "fileid": "oss://yk-flv-sh/05000C00005E40C44FD347505CF07DC5886ACA-E9F7-401C-A64D-9969AC6B5F46.m3u8"
+            }
+          ],
+          "stream_ext": {
+            "hls_subtitle": "default",
+            "hlsTags": "EXT-X-PRIVINF",
+            "hls_size": 3334048776,
+            "hls_duration": 6419708,
+            "frameAlign": 1,
+            "oss_bucket": 2,
+            "hls_logo": "none"
+          },
+          "size": 3334048776,
+          "subtitle_lang": "default",
+          "media_type": "standard",
+          "transfer_mode_org": "http",
+          "drm_type": "default",
+          "stream_type": "mp5hd4",
+          "width": 3840,
+          "logo": "none",
+          "m3u8_url": "http://valipl.cp31.ott.cibntv.net/6773F6369F03C718C12EE37ED/05000C00005E40C44FD347505CF07DC5886ACA-E9F7-401C-A64D-9969AC6B5F46-1-110.m3u8?ccode=0502&duration=6419&expire=18000&psid=79ddc25517f52e914b971dc46e543e8d&ups_client_netip=674e7f1d&ups_ts=1583823223&ups_userid=&utid=ODOPFkliAUUCARstNe1IszJU&vid=XNDUzNTU1ODQzMg%3D%3D&vkey=B9425b2e072a8ea67978b7d3757869bc4&sm=1&operate_type=0&dre=u37&si=73&eo=1&dst=1&iv=0&s=0a894d74f8f44a129362&bc=2",
+          "height": 1736
+        },
+        {
+          "audio_lang": "guoyu",
+          "milliseconds_audio": 6419681,
+          "milliseconds_video": 6419720,
+          "segs": [
+            {
+              "size": 10244189,
+              "cdn_url": "http://vali-dns.cp31.ott.cibntv.net/6974E398D5A4071A6ED2A3722/03002011005E3C633AD347505CF07D5328C72C-82AF-4A41-9968-A4A5A54C7D74.mp4?ccode=0502&duration=390&expire=18000&psid=79ddc25517f52e914b971dc46e543e8d&ups_client_netip=674e7f1d&ups_ts=1583823223&ups_userid=&utid=ODOPFkliAUUCARstNe1IszJU&vid=XNDUzNTU1ODQzMg%3D%3D&vkey=Be22e0dfdf9fe294c4be9b59a98f63fdb&eo=1&bc=2&dre=u17&si=45&dst=1",
+              "total_milliseconds_video": 390000,
+              "total_milliseconds_audio": 389909,
+              "secret": "6974E398D5A4071A6ED2A3722",
+              "key": "b1edb03a404fb175282efde8",
+              "fileid": "03002011005E3C633AD347505CF07D5328C72C-82AF-4A41-9968-A4A5A54C7D74"
+            }
+          ],
+          "stream_ext": {
+            "hls_subtitle": "default",
+            "subtitle_lang": "default",
+            "hls_size": 176294744,
+            "hls_duration": 6419708,
+            "one_seg_flag": 0,
+            "oss_bucket": 2,
+            "hls_logo": "none"
+          },
+          "size": 170290175,
+          "subtitle_lang": "default",
+          "media_type": "standard",
+          "drm_type": "default",
+          "stream_type": "3gphd",
+          "width": 480,
+          "logo": "none",
+          "m3u8_url": "http://valipl.cp31.ott.cibntv.net/6773B96AEA24471C1C76632A5/03000300005E40C44AD347505CF07D1311E8D4-19CD-4BF9-9C2B-E36A4CAE264D-1-110.m3u8?ccode=0502&duration=6419&expire=18000&psid=79ddc25517f52e914b971dc46e543e8d&ups_client_netip=674e7f1d&ups_ts=1583823223&ups_userid=&utid=ODOPFkliAUUCARstNe1IszJU&vid=XNDUzNTU1ODQzMg%3D%3D&vkey=B8f4a4b30b85f0902709a78857e2131ba&sm=1&operate_type=0&dre=u37&si=73&eo=1&dst=1&iv=0&s=0a894d74f8f44a129362&bc=2",
+          "height": 218
+        },
+        {
+          "audio_lang": "guoyu",
+          "milliseconds_audio": 6419686,
+          "milliseconds_video": 6419720,
+          "segs": [
+            {
+              "size": 29321187,
+              "cdn_url": "http://vali-dns.cp31.ott.cibntv.net/657298B0F8A4871DCA1A14076/03000811005E3C633AD347505CF07D6708A9BA-A278-4A95-A321-F6ECAAB67664.mp4?ccode=0502&duration=390&expire=18000&psid=79ddc25517f52e914b971dc46e543e8d&ups_client_netip=674e7f1d&ups_ts=1583823223&ups_userid=&utid=ODOPFkliAUUCARstNe1IszJU&vid=XNDUzNTU1ODQzMg%3D%3D&vkey=B7325db81a965c15af8d97e0af12bdec8&eo=1&bc=2&dre=u17&si=45&dst=1",
+              "total_milliseconds_video": 390000,
+              "total_milliseconds_audio": 389932,
+              "secret": "657298B0F8A4871DCA1A14076",
+              "key": "b1edb03a404fb175282efde8",
+              "fileid": "03000811005E3C633AD347505CF07D6708A9BA-A278-4A95-A321-F6ECAAB67664"
+            }
+          ],
+          "stream_ext": {
+            "hls_subtitle": "default",
+            "isNewHd": 0,
+            "subtitle_lang": "default",
+            "hls_size": 508463672,
+            "hls_duration": 6419708,
+            "one_seg_flag": 0,
+            "oss_bucket": 2,
+            "hls_logo": "none"
+          },
+          "size": 507647571,
+          "subtitle_lang": "default",
+          "media_type": "standard",
+          "drm_type": "default",
+          "stream_type": "mp4hd",
+          "width": 960,
+          "logo": "none",
+          "m3u8_url": "http://valipl.cp31.ott.cibntv.net/6572A310C544371BB10D72C2C/03000600005E40C44AD347505CF07DA26CD7E8-69AC-4564-A608-EFD67679E524-1-110.m3u8?ccode=0502&duration=6419&expire=18000&psid=79ddc25517f52e914b971dc46e543e8d&ups_client_netip=674e7f1d&ups_ts=1583823223&ups_userid=&utid=ODOPFkliAUUCARstNe1IszJU&vid=XNDUzNTU1ODQzMg%3D%3D&vkey=Bd77e8da9ca280c22371078a415769b38&sm=1&operate_type=0&dre=u37&si=73&eo=1&dst=1&iv=0&s=0a894d74f8f44a129362&bc=2",
+          "height": 434
+        },
+        {
+          "audio_lang": "guoyu",
+          "milliseconds_audio": 6419682,
+          "milliseconds_video": 6419720,
+          "segs": [
+            {
+              "size": 25480072,
+              "cdn_url": "http://vali-dns.cp31.ott.cibntv.net/6773926A4DC4271B45A4826A3/03000C2E005E3C633AD347505CF07D0F989184-E32E-4A46-955C-667E3CD528F0.mp4?ccode=0502&duration=140&expire=18000&psid=79ddc25517f52e914b971dc46e543e8d&ups_client_netip=674e7f1d&ups_ts=1583823223&ups_userid=&utid=ODOPFkliAUUCARstNe1IszJU&vid=XNDUzNTU1ODQzMg%3D%3D&vkey=Bbdf5945555f61068ce3dd98fb4b37738&eo=1&bc=2&dre=u17&si=45&dst=1",
+              "total_milliseconds_video": 140000,
+              "total_milliseconds_audio": 139923,
+              "secret": "6773926A4DC4271B45A4826A3",
+              "key": "e47fa8ba9430129d241423ac",
+              "fileid": "03000C2E005E3C633AD347505CF07D0F989184-E32E-4A46-955C-667E3CD528F0"
+            },
+            {
+              "size": 35552788,
+              "cdn_url": "http://vali-dns.cp31.ott.cibntv.net/69755B9FC6130713B843C5C58/03000C2E015E3C633AD347505CF07D0F989184-E32E-4A46-955C-667E3CD528F0.mp4?ccode=0502&duration=140&expire=18000&psid=79ddc25517f52e914b971dc46e543e8d&ups_client_netip=674e7f1d&ups_ts=1583823223&ups_userid=&utid=ODOPFkliAUUCARstNe1IszJU&vid=XNDUzNTU1ODQzMg%3D%3D&vkey=Bf6f8b157ef105ca4a0a4eaf993d6684d&eo=1&bc=2&dre=u17&si=45&dst=1",
+              "total_milliseconds_video": 140000,
+              "total_milliseconds_audio": 140016,
+              "secret": "69755B9FC6130713B843C5C58",
+              "key": "30e0f489b2584180241423ac",
+              "fileid": "03000C2E015E3C633AD347505CF07D0F989184-E32E-4A46-955C-667E3CD528F0"
+            },
+            {
+              "size": 29716836,
+              "cdn_url": "http://vali-dns.cp31.ott.cibntv.net/6774C338EF13D7192C97D2671/03000C2E025E3C633AD347505CF07D0F989184-E32E-4A46-955C-667E3CD528F0.mp4?ccode=0502&duration=140&expire=18000&psid=79ddc25517f52e914b971dc46e543e8d&ups_client_netip=674e7f1d&ups_ts=1583823223&ups_userid=&utid=ODOPFkliAUUCARstNe1IszJU&vid=XNDUzNTU1ODQzMg%3D%3D&vkey=B32db2b4f0b573c200df9cab71682741c&eo=1&bc=2&dre=u17&si=45&dst=1",
+              "total_milliseconds_video": 140000,
+              "total_milliseconds_audio": 139993,
+              "secret": "6774C338EF13D7192C97D2671",
+              "key": "fcff8e7913b018db262190ca",
+              "fileid": "03000C2E025E3C633AD347505CF07D0F989184-E32E-4A46-955C-667E3CD528F0"
+            }
+          ],
+          "stream_ext": {
+            "hls_subtitle": "default",
+            "subtitle_lang": "default",
+            "hls_size": 1443063560,
+            "hls_duration": 6419708,
+            "one_seg_flag": 0,
+            "oss_bucket": 2,
+            "hls_logo": "none"
+          },
+          "size": 1542691157,
+          "subtitle_lang": "default",
+          "media_type": "standard",
+          "drm_type": "default",
+          "stream_type": "mp4hd3v2",
+          "width": 1920,
+          "logo": "none",
+          "m3u8_url": "http://valipl.cp31.ott.cibntv.net/6975C220B2E4D71FE326C25A7/03000900005E40C44AD347505CF07D628899F7-F83C-4038-B588-C12441758967-1-110.m3u8?ccode=0502&duration=6419&expire=18000&psid=79ddc25517f52e914b971dc46e543e8d&ups_client_netip=674e7f1d&ups_ts=1583823223&ups_userid=&utid=ODOPFkliAUUCARstNe1IszJU&vid=XNDUzNTU1ODQzMg%3D%3D&vkey=B846d361aa07a28b6390bbed56eedbed1&sm=1&operate_type=0&dre=u37&si=73&eo=1&dst=1&iv=0&s=0a894d74f8f44a129362&bc=2",
+          "height": 868
+        },
+        {
+          "audio_lang": "guoyu",
+          "milliseconds_audio": 6419691,
+          "milliseconds_video": 6419708,
+          "segs": [
+            {
+              "size": 255799004,
+              "total_milliseconds_video": 6419708,
+              "total_milliseconds_audio": 6419691,
+              "fileid": "oss://yk-flv-sh/05000700005E40C44AD347505CF07D20BB80CD-6E25-4102-8F48-B8CFA6BD4A60.m3u8"
+            }
+          ],
+          "stream_ext": {
+            "firstSliceSequenceNum": 0,
+            "hls_subtitle": "default",
+            "firstSliceDur": 10000,
+            "hlsTags": "EXT-X-PRIVINF",
+            "firstSlicePos": 0,
+            "hls_size": 255799004,
+            "hls_duration": 6419708,
+            "firstSliceSize": 297792,
+            "frameAlign": 1,
+            "oss_bucket": 2,
+            "hls_logo": "none",
+            "firstSlice": "05000700005E40C44AD347505CF07D20BB80CD-6E25-4102-8F48-B8CFA6BD4A60-00001.ts"
+          },
+          "size": 255799004,
+          "subtitle_lang": "default",
+          "media_type": "standard",
+          "transfer_mode_org": "http",
+          "drm_type": "default",
+          "stream_type": "mp5sd",
+          "width": 640,
+          "logo": "none",
+          "m3u8_url": "http://valipl.cp31.ott.cibntv.net/697490206383F71A0369B4255/05000700005E40C44AD347505CF07D20BB80CD-6E25-4102-8F48-B8CFA6BD4A60-1-110.m3u8?ccode=0502&duration=6419&expire=18000&psid=79ddc25517f52e914b971dc46e543e8d&ups_client_netip=674e7f1d&ups_ts=1583823223&ups_userid=&utid=ODOPFkliAUUCARstNe1IszJU&vid=XNDUzNTU1ODQzMg%3D%3D&vkey=Beb6793d02ee9d519cfe2721f2df7b075&sm=1&operate_type=0&dre=u37&si=73&eo=1&dst=1&iv=0&s=0a894d74f8f44a129362&bc=2",
+          "height": 290
+        },
+        {
+          "audio_lang": "guoyu",
+          "milliseconds_audio": 6419686,
+          "milliseconds_video": 6419720,
+          "segs": [
+            {
+              "size": 17634147,
+              "cdn_url": "http://vali-dns.cp31.ott.cibntv.net/6773A49AF214871DCA1A12C34/03000A11005E3C633AD347505CF07DCBF95E4E-AAC9-4796-9864-4DAC485D0F3F.mp4?ccode=0502&duration=390&expire=18000&psid=79ddc25517f52e914b971dc46e543e8d&ups_client_netip=674e7f1d&ups_ts=1583823223&ups_userid=&utid=ODOPFkliAUUCARstNe1IszJU&vid=XNDUzNTU1ODQzMg%3D%3D&vkey=B861976200417fc2b4e7ed7f18aac31ac&eo=1&bc=2&dre=u17&si=45&dst=1",
+              "total_milliseconds_video": 390000,
+              "total_milliseconds_audio": 389932,
+              "secret": "6773A49AF214871DCA1A12C34",
+              "key": "d53262ee01aef479241423ac",
+              "fileid": "03000A11005E3C633AD347505CF07DCBF95E4E-AAC9-4796-9864-4DAC485D0F3F"
+            }
+          ],
+          "stream_ext": {
+            "hls_subtitle": "default",
+            "subtitle_lang": "default",
+            "hls_size": 287894176,
+            "hls_duration": 6419708,
+            "one_seg_flag": 0,
+            "oss_bucket": 2,
+            "hls_logo": "none"
+          },
+          "size": 310830732,
+          "subtitle_lang": "default",
+          "media_type": "standard",
+          "drm_type": "default",
+          "stream_type": "mp4sd",
+          "width": 640,
+          "logo": "none",
+          "m3u8_url": "http://valipl.cp31.ott.cibntv.net/65721E34C633471565E774634/03000500005E40C44AD347505CF07D4C884191-3289-4FE3-84D1-2FE0A3D8CC4F-1-110.m3u8?ccode=0502&duration=6419&expire=18000&psid=79ddc25517f52e914b971dc46e543e8d&ups_client_netip=674e7f1d&ups_ts=1583823223&ups_userid=&utid=ODOPFkliAUUCARstNe1IszJU&vid=XNDUzNTU1ODQzMg%3D%3D&vkey=Bcedf9e166f1d20b9b7a37948f07a6a96&sm=1&operate_type=0&dre=u37&si=73&eo=1&dst=1&iv=0&s=0a894d74f8f44a129362&bc=2",
+          "height": 290
+        },
+        {
+          "audio_lang": "guoyu",
+          "milliseconds_audio": 6419684,
+          "milliseconds_video": 6419720,
+          "segs": [
+            {
+              "size": 17716840,
+              "cdn_url": "http://vali-dns.cp31.ott.cibntv.net/67746F085983471565E773F2F/03000B20005E3C633AD347505CF07D98A4D845-5CB6-4CB8-BA21-BE96B95B8922.mp4?ccode=0502&duration=200&expire=18000&psid=79ddc25517f52e914b971dc46e543e8d&ups_client_netip=674e7f1d&ups_ts=1583823223&ups_userid=&utid=ODOPFkliAUUCARstNe1IszJU&vid=XNDUzNTU1ODQzMg%3D%3D&vkey=Baa01b8ee3668a00653dac883a310c601&eo=1&bc=2&dre=u17&si=45&dst=1",
+              "total_milliseconds_video": 200000,
+              "total_milliseconds_audio": 199923,
+              "secret": "67746F085983471565E773F2F",
+              "key": "5c21f328cb0ea228241423ac",
+              "fileid": "03000B20005E3C633AD347505CF07D98A4D845-5CB6-4CB8-BA21-BE96B95B8922"
+            },
+            {
+              "size": 30507560,
+              "cdn_url": "http://vali-dns.cp31.ott.cibntv.net/6573B1DC9EC367163CB9569BA/03000B20015E3C633AD347505CF07D98A4D845-5CB6-4CB8-BA21-BE96B95B8922.mp4?ccode=0502&duration=200&expire=18000&psid=79ddc25517f52e914b971dc46e543e8d&ups_client_netip=674e7f1d&ups_ts=1583823223&ups_userid=&utid=ODOPFkliAUUCARstNe1IszJU&vid=XNDUzNTU1ODQzMg%3D%3D&vkey=B13517aae57f0ed225848a20126193510&eo=1&bc=2&dre=u17&si=45&dst=1",
+              "total_milliseconds_video": 200000,
+              "total_milliseconds_audio": 200017,
+              "secret": "6573B1DC9EC367163CB9569BA",
+              "key": "3c87e169e635852a262190ca",
+              "fileid": "03000B20015E3C633AD347505CF07D98A4D845-5CB6-4CB8-BA21-BE96B95B8922"
+            }
+          ],
+          "stream_ext": {
+            "hls_subtitle": "default",
+            "subtitle_lang": "default",
+            "hls_size": 823352768,
+            "hls_duration": 6419708,
+            "one_seg_flag": 0,
+            "oss_bucket": 2,
+            "hls_logo": "none"
+          },
+          "size": 831948739,
+          "subtitle_lang": "default",
+          "media_type": "standard",
+          "drm_type": "default",
+          "stream_type": "mp4hd2v2",
+          "width": 1280,
+          "logo": "none",
+          "m3u8_url": "http://valipl.cp31.ott.cibntv.net/6572FA144073F71A0369B5D27/03000700005E40C44AD347505CF07DF29A4379-E02D-409B-BBC9-7E8E5C9CBF49-1-110.m3u8?ccode=0502&duration=6419&expire=18000&psid=79ddc25517f52e914b971dc46e543e8d&ups_client_netip=674e7f1d&ups_ts=1583823223&ups_userid=&utid=ODOPFkliAUUCARstNe1IszJU&vid=XNDUzNTU1ODQzMg%3D%3D&vkey=B6df8716669d35241429f831971e3fb7f&sm=1&operate_type=0&dre=u37&si=73&eo=1&dst=1&iv=0&s=0a894d74f8f44a129362&bc=2",
+          "height": 578
+        },
+        {
+          "audio_lang": "guoyu",
+          "milliseconds_audio": 6419691,
+          "milliseconds_video": 6419708,
+          "segs": [
+            {
+              "size": 1195625480,
+              "total_milliseconds_video": 6419708,
+              "total_milliseconds_audio": 6419691,
+              "fileid": "oss://yk-flv-sh/05000B00005E40C44AD347505CF07DDC94D576-231C-4EFA-97E4-3862E54E6721.m3u8"
+            }
+          ],
+          "stream_ext": {
+            "firstSliceSequenceNum": 0,
+            "hls_subtitle": "default",
+            "firstSliceDur": 10000,
+            "hlsTags": "EXT-X-PRIVINF",
+            "firstSlicePos": 0,
+            "hls_size": 1195625480,
+            "hls_duration": 6419708,
+            "firstSliceSize": 1745016,
+            "frameAlign": 1,
+            "oss_bucket": 2,
+            "hls_logo": "none",
+            "firstSlice": "05000B00005E40C44AD347505CF07DDC94D576-231C-4EFA-97E4-3862E54E6721-00001.ts"
+          },
+          "size": 1195625480,
+          "subtitle_lang": "default",
+          "media_type": "standard",
+          "transfer_mode_org": "http",
+          "drm_type": "default",
+          "stream_type": "mp5hd3",
+          "width": 1920,
+          "logo": "none",
+          "m3u8_url": "http://valipl.cp31.ott.cibntv.net/65726A8068C38717138B36B34/05000B00005E40C44AD347505CF07DDC94D576-231C-4EFA-97E4-3862E54E6721-1-110.m3u8?ccode=0502&duration=6419&expire=18000&psid=79ddc25517f52e914b971dc46e543e8d&ups_client_netip=674e7f1d&ups_ts=1583823223&ups_userid=&utid=ODOPFkliAUUCARstNe1IszJU&vid=XNDUzNTU1ODQzMg%3D%3D&vkey=B4efcb0f731038b5433c4f28345c8c580&sm=1&operate_type=0&dre=u37&si=73&eo=1&dst=1&iv=0&s=0a894d74f8f44a129362&bc=2",
+          "height": 868
+        },
+        {
+          "audio_lang": "guoyu",
+          "milliseconds_audio": 6419691,
+          "milliseconds_video": 6419708,
+          "segs": [
+            {
+              "size": 423747864,
+              "total_milliseconds_video": 6419708,
+              "total_milliseconds_audio": 6419691,
+              "fileid": "oss://yk-flv-sh/05000900005E40C44AD347505CF07DD30748CE-DE4A-4716-BA1F-3E4957804CFD.m3u8"
+            }
+          ],
+          "stream_ext": {
+            "firstSliceDur": 10000,
+            "hlsTags": "EXT-X-PRIVINF",
+            "firstSlicePos": 0,
+            "hls_duration": 6419708,
+            "frameAlign": 1,
+            "firstSliceSequenceNum": 0,
+            "hls_subtitle": "default",
+            "isNewHd": 0,
+            "hls_size": 423747864,
+            "firstSliceSize": 506096,
+            "oss_bucket": 2,
+            "hls_logo": "none",
+            "firstSlice": "05000900005E40C44AD347505CF07DD30748CE-DE4A-4716-BA1F-3E4957804CFD-00001.ts"
+          },
+          "size": 423747864,
+          "subtitle_lang": "default",
+          "media_type": "standard",
+          "transfer_mode_org": "http",
+          "drm_type": "default",
+          "stream_type": "mp5hd",
+          "width": 960,
+          "logo": "none",
+          "m3u8_url": "http://valipl.cp31.ott.cibntv.net/67746D226234E7204E8FA3D5C/05000900005E40C44AD347505CF07DD30748CE-DE4A-4716-BA1F-3E4957804CFD-1-110.m3u8?ccode=0502&duration=6419&expire=18000&psid=79ddc25517f52e914b971dc46e543e8d&ups_client_netip=674e7f1d&ups_ts=1583823223&ups_userid=&utid=ODOPFkliAUUCARstNe1IszJU&vid=XNDUzNTU1ODQzMg%3D%3D&vkey=Bd91e2be70a4b3835303feaa3b24af9f0&sm=1&operate_type=0&dre=u37&si=73&eo=1&dst=1&iv=0&s=0a894d74f8f44a129362&bc=2",
+          "height": 434
+        },
+        {
+          "audio_lang": "guoyu",
+          "milliseconds_audio": 6419691,
+          "milliseconds_video": 6419708,
+          "segs": [
+            {
+              "size": 733120664,
+              "total_milliseconds_video": 6419708,
+              "total_milliseconds_audio": 6419691,
+              "fileid": "oss://yk-flv-sh/05000A00005E40C44AD347505CF07D6AC16240-1F22-4547-AF5F-660252C031AA.m3u8"
+            }
+          ],
+          "stream_ext": {
+            "firstSliceSequenceNum": 0,
+            "hls_subtitle": "default",
+            "firstSliceDur": 10000,
+            "hlsTags": "EXT-X-PRIVINF",
+            "firstSlicePos": 0,
+            "hls_size": 733120664,
+            "hls_duration": 6419708,
+            "firstSliceSize": 910296,
+            "frameAlign": 1,
+            "oss_bucket": 2,
+            "hls_logo": "none",
+            "firstSlice": "05000A00005E40C44AD347505CF07D6AC16240-1F22-4547-AF5F-660252C031AA-00001.ts"
+          },
+          "size": 733120664,
+          "subtitle_lang": "default",
+          "media_type": "standard",
+          "transfer_mode_org": "http",
+          "drm_type": "default",
+          "stream_type": "mp5hd2",
+          "width": 1280,
+          "logo": "none",
+          "m3u8_url": "http://valipl.cp31.ott.cibntv.net/6572C86C40A38717138B330EE/05000A00005E40C44AD347505CF07D6AC16240-1F22-4547-AF5F-660252C031AA-1-110.m3u8?ccode=0502&duration=6419&expire=18000&psid=79ddc25517f52e914b971dc46e543e8d&ups_client_netip=674e7f1d&ups_ts=1583823223&ups_userid=&utid=ODOPFkliAUUCARstNe1IszJU&vid=XNDUzNTU1ODQzMg%3D%3D&vkey=Bcf4ca78034a3b7bb50d89a5c728062c5&sm=1&operate_type=0&dre=u37&si=73&eo=1&dst=1&iv=0&s=0a894d74f8f44a129362&bc=2",
+          "height": 578
+        },
+        {
+          "audio_lang": "yue",
+          "milliseconds_audio": 6419733,
+          "milliseconds_video": 6419750,
+          "segs": [
+            {
+              "size": 255741664,
+              "total_milliseconds_video": 6419750,
+              "total_milliseconds_audio": 6419733,
+              "fileid": "oss://yk-flv-sh/05000700005E4936D1A6DB505CF07D1908FF25-12BD-4F7A-A0F7-301556B4345F.m3u8"
+            }
+          ],
+          "stream_ext": {
+            "firstSliceSequenceNum": 0,
+            "hls_subtitle": "default",
+            "firstSliceDur": 10000,
+            "hlsTags": "EXT-X-PRIVINF",
+            "firstSlicePos": 0,
+            "hls_size": 255741664,
+            "hls_duration": 6419750,
+            "firstSliceSize": 297228,
+            "frameAlign": 1,
+            "oss_bucket": 2,
+            "hls_logo": "none",
+            "firstSlice": "05000700005E4936D1A6DB505CF07D1908FF25-12BD-4F7A-A0F7-301556B4345F-00001.ts"
+          },
+          "size": 255741664,
+          "subtitle_lang": "default",
+          "media_type": "standard",
+          "transfer_mode_org": "http",
+          "drm_type": "default",
+          "stream_type": "mp5sd",
+          "width": 640,
+          "logo": "none",
+          "m3u8_url": "http://valipl.cp31.ott.cibntv.net/697518C8D003171423ACA6C53/05000700005E4936D1A6DB505CF07D1908FF25-12BD-4F7A-A0F7-301556B4345F-1-110.m3u8?ccode=0502&duration=6419&expire=18000&psid=79ddc25517f52e914b971dc46e543e8d&ups_client_netip=674e7f1d&ups_ts=1583823223&ups_userid=&utid=ODOPFkliAUUCARstNe1IszJU&vid=XNDUzNTU1ODUyOA%3D%3D&vkey=B06cbfdaf179ab23e7210e61490bf703b&sm=1&operate_type=0&dre=u37&si=73&eo=1&dst=1&iv=0&s=0a894d74f8f44a129362&bc=2",
+          "height": 290
+        },
+        {
+          "audio_lang": "yue",
+          "milliseconds_audio": 6419728,
+          "milliseconds_video": 6419760,
+          "segs": [
+            {
+              "size": 17634089,
+              "cdn_url": "http://vali-dns.cp31.ott.cibntv.net/657304F05AE4471C1C7662FAA/03000A11005E3C6379A6DB505CF07D8093EE1F-70D9-4A8B-BE31-0936893F3678.mp4?ccode=0502&duration=390&expire=18000&psid=79ddc25517f52e914b971dc46e543e8d&ups_client_netip=674e7f1d&ups_ts=1583823223&ups_userid=&utid=ODOPFkliAUUCARstNe1IszJU&vid=XNDUzNTU1ODUyOA%3D%3D&vkey=Bb2b352c714e9b07f7b74768c0d9fd7b4&eo=1&bc=2&dre=u17&si=45&dst=1",
+              "total_milliseconds_video": 390000,
+              "total_milliseconds_audio": 389932,
+              "secret": "657304F05AE4471C1C7662FAA",
+              "key": "f1f43cc8e93c2987241423ac",
+              "fileid": "03000A11005E3C6379A6DB505CF07D8093EE1F-70D9-4A8B-BE31-0936893F3678"
+            }
+          ],
+          "stream_ext": {
+            "hls_subtitle": "default",
+            "subtitle_lang": "default",
+            "hls_size": 287870676,
+            "hls_duration": 6419750,
+            "one_seg_flag": 0,
+            "oss_bucket": 2,
+            "hls_logo": "none"
+          },
+          "size": 310829823,
+          "subtitle_lang": "default",
+          "media_type": "standard",
+          "drm_type": "default",
+          "stream_type": "mp4sd",
+          "width": 640,
+          "logo": "none",
+          "m3u8_url": "http://valipl.cp31.ott.cibntv.net/657304585E23471565E7734A3/03000500005E4936D1A6DB505CF07D6839E1BE-6093-4516-BEF4-3F24D749F4A2-1-110.m3u8?ccode=0502&duration=6419&expire=18000&psid=79ddc25517f52e914b971dc46e543e8d&ups_client_netip=674e7f1d&ups_ts=1583823223&ups_userid=&utid=ODOPFkliAUUCARstNe1IszJU&vid=XNDUzNTU1ODUyOA%3D%3D&vkey=B443b6a95756cf006c19ef06ec4db51bf&sm=1&operate_type=0&dre=u37&si=73&eo=1&dst=1&iv=0&s=0a894d74f8f44a129362&bc=2",
+          "height": 290
+        },
+        {
+          "audio_lang": "yue",
+          "milliseconds_audio": 6419726,
+          "milliseconds_video": 6419760,
+          "segs": [
+            {
+              "size": 17716745,
+              "cdn_url": "http://vali-dns.cp31.ott.cibntv.net/657301244D14571C87DF42628/03000B20005E3C6379A6DB505CF07DDC7BE1A7-8E4D-4B8B-BD3E-36B89A7E8939.mp4?ccode=0502&duration=200&expire=18000&psid=79ddc25517f52e914b971dc46e543e8d&ups_client_netip=674e7f1d&ups_ts=1583823223&ups_userid=&utid=ODOPFkliAUUCARstNe1IszJU&vid=XNDUzNTU1ODUyOA%3D%3D&vkey=B45328f78357759a855a14cfab9478fe5&eo=1&bc=2&dre=u17&si=45&dst=1",
+              "total_milliseconds_video": 200000,
+              "total_milliseconds_audio": 199923,
+              "secret": "657301244D14571C87DF42628",
+              "key": "0c7d4cf5198e9b0c262190ca",
+              "fileid": "03000B20005E3C6379A6DB505CF07DDC7BE1A7-8E4D-4B8B-BD3E-36B89A7E8939"
+            },
+            {
+              "size": 30507695,
+              "cdn_url": "http://vali-dns.cp31.ott.cibntv.net/6976C29151F3471565E7753DE/03000B20015E3C6379A6DB505CF07DDC7BE1A7-8E4D-4B8B-BD3E-36B89A7E8939.mp4?ccode=0502&duration=200&expire=18000&psid=79ddc25517f52e914b971dc46e543e8d&ups_client_netip=674e7f1d&ups_ts=1583823223&ups_userid=&utid=ODOPFkliAUUCARstNe1IszJU&vid=XNDUzNTU1ODUyOA%3D%3D&vkey=Bca814f7ddbc3972c11e43cf4bf45b633&eo=1&bc=2&dre=u17&si=45&dst=1",
+              "total_milliseconds_video": 200000,
+              "total_milliseconds_audio": 200017,
+              "secret": "6976C29151F3471565E7753DE",
+              "key": "6b4f1ab5a3471da4241423ac",
+              "fileid": "03000B20015E3C6379A6DB505CF07DDC7BE1A7-8E4D-4B8B-BD3E-36B89A7E8939"
+            }
+          ],
+          "stream_ext": {
+            "hls_subtitle": "default",
+            "subtitle_lang": "default",
+            "hls_size": 823406348,
+            "hls_duration": 6419750,
+            "one_seg_flag": 0,
+            "oss_bucket": 2,
+            "hls_logo": "none"
+          },
+          "size": 831988186,
+          "subtitle_lang": "default",
+          "media_type": "standard",
+          "drm_type": "default",
+          "stream_type": "mp4hd2v2",
+          "width": 1280,
+          "logo": "none",
+          "m3u8_url": "http://valipl.cp31.ott.cibntv.net/6572AED4DD63F71A0369B4E2D/03000700005E4936D1A6DB505CF07DA68993AD-309A-4068-A993-75CF2E4F6BB1-1-110.m3u8?ccode=0502&duration=6419&expire=18000&psid=79ddc25517f52e914b971dc46e543e8d&ups_client_netip=674e7f1d&ups_ts=1583823223&ups_userid=&utid=ODOPFkliAUUCARstNe1IszJU&vid=XNDUzNTU1ODUyOA%3D%3D&vkey=B5a5fcf5fba43ac14f986d26339275a80&sm=1&operate_type=0&dre=u37&si=73&eo=1&dst=1&iv=0&s=0a894d74f8f44a129362&bc=2",
+          "height": 578
+        },
+        {
+          "_4k_mark": true,
+          "audio_lang": "yue",
+          "milliseconds_audio": 6419733,
+          "milliseconds_video": 6419750,
+          "segs": [
+            {
+              "size": 3334374768,
+              "total_milliseconds_video": 6419750,
+              "total_milliseconds_audio": 6419733,
+              "fileid": "oss://yk-flv-sh/05000C00005E4936D6A6DB505CF07D01471711-99EC-40E3-A43E-BAD421F1F696.m3u8"
+            }
+          ],
+          "stream_ext": {
+            "hls_subtitle": "default",
+            "hlsTags": "EXT-X-PRIVINF",
+            "hls_size": 3334374768,
+            "hls_duration": 6419750,
+            "frameAlign": 1,
+            "oss_bucket": 2,
+            "hls_logo": "none"
+          },
+          "size": 3334374768,
+          "subtitle_lang": "default",
+          "media_type": "standard",
+          "transfer_mode_org": "http",
+          "drm_type": "default",
+          "stream_type": "mp5hd4",
+          "width": 3840,
+          "logo": "none",
+          "m3u8_url": "http://valipl.cp31.ott.cibntv.net/6773E64052B37716A82245F6B/05000C00005E4936D6A6DB505CF07D01471711-99EC-40E3-A43E-BAD421F1F696-1-110.m3u8?ccode=0502&duration=6419&expire=18000&psid=79ddc25517f52e914b971dc46e543e8d&ups_client_netip=674e7f1d&ups_ts=1583823223&ups_userid=&utid=ODOPFkliAUUCARstNe1IszJU&vid=XNDUzNTU1ODUyOA%3D%3D&vkey=B6cde918397d8b43d55309d593e820bbe&sm=1&operate_type=0&dre=u37&si=73&eo=1&dst=1&iv=0&s=0a894d74f8f44a129362&bc=2",
+          "height": 1736
+        },
+        {
+          "audio_lang": "yue",
+          "milliseconds_audio": 6419733,
+          "milliseconds_video": 6419750,
+          "segs": [
+            {
+              "size": 1195711396,
+              "total_milliseconds_video": 6419750,
+              "total_milliseconds_audio": 6419733,
+              "fileid": "oss://yk-flv-sh/05000B00005E4936D1A6DB505CF07D858782D3-B21C-4B3C-AE0D-9CC5BCD645AD.m3u8"
+            }
+          ],
+          "stream_ext": {
+            "firstSliceSequenceNum": 0,
+            "hls_subtitle": "default",
+            "firstSliceDur": 10000,
+            "hlsTags": "EXT-X-PRIVINF",
+            "firstSlicePos": 0,
+            "hls_size": 1195711396,
+            "hls_duration": 6419750,
+            "firstSliceSize": 1742008,
+            "frameAlign": 1,
+            "oss_bucket": 2,
+            "hls_logo": "none",
+            "firstSlice": "05000B00005E4936D1A6DB505CF07D858782D3-B21C-4B3C-AE0D-9CC5BCD645AD-00001.ts"
+          },
+          "size": 1195711396,
+          "subtitle_lang": "default",
+          "media_type": "standard",
+          "transfer_mode_org": "http",
+          "drm_type": "default",
+          "stream_type": "mp5hd3",
+          "width": 1920,
+          "logo": "none",
+          "m3u8_url": "http://valipl.cp31.ott.cibntv.net/6774211AFB935715D150663FA/05000B00005E4936D1A6DB505CF07D858782D3-B21C-4B3C-AE0D-9CC5BCD645AD-1-110.m3u8?ccode=0502&duration=6419&expire=18000&psid=79ddc25517f52e914b971dc46e543e8d&ups_client_netip=674e7f1d&ups_ts=1583823223&ups_userid=&utid=ODOPFkliAUUCARstNe1IszJU&vid=XNDUzNTU1ODUyOA%3D%3D&vkey=B85e341f9e4e3950f285b40c22b15821e&sm=1&operate_type=0&dre=u37&si=73&eo=1&dst=1&iv=0&s=0a894d74f8f44a129362&bc=2",
+          "height": 868
+        },
+        {
+          "audio_lang": "yue",
+          "milliseconds_audio": 6419723,
+          "milliseconds_video": 6419760,
+          "segs": [
+            {
+              "size": 10244107,
+              "cdn_url": "http://vali-dns.cp31.ott.cibntv.net/6974641857B4A71EA0EBF356F/03002011005E3C6379A6DB505CF07DA3304C08-489F-4CBC-8978-B7CF45D52E35.mp4?ccode=0502&duration=390&expire=18000&psid=79ddc25517f52e914b971dc46e543e8d&ups_client_netip=674e7f1d&ups_ts=1583823223&ups_userid=&utid=ODOPFkliAUUCARstNe1IszJU&vid=XNDUzNTU1ODUyOA%3D%3D&vkey=B4398522eb0d99bdfd3943f3262773c5e&eo=1&bc=2&dre=u17&si=45&dst=1",
+              "total_milliseconds_video": 390000,
+              "total_milliseconds_audio": 389909,
+              "secret": "6974641857B4A71EA0EBF356F",
+              "key": "f9d9d1c88d283ffe282efde8",
+              "fileid": "03002011005E3C6379A6DB505CF07DA3304C08-489F-4CBC-8978-B7CF45D52E35"
+            }
+          ],
+          "stream_ext": {
+            "hls_subtitle": "default",
+            "subtitle_lang": "default",
+            "hls_size": 176265416,
+            "hls_duration": 6419750,
+            "one_seg_flag": 0,
+            "oss_bucket": 2,
+            "hls_logo": "none"
+          },
+          "size": 170294863,
+          "subtitle_lang": "default",
+          "media_type": "standard",
+          "drm_type": "default",
+          "stream_type": "3gphd",
+          "width": 480,
+          "logo": "none",
+          "m3u8_url": "http://valipl.cp31.ott.cibntv.net/677475204024071A6ED2A6607/03000300005E4936D1A6DB505CF07D12D73213-719D-402E-BC0E-1B94E56D2FDE-1-110.m3u8?ccode=0502&duration=6419&expire=18000&psid=79ddc25517f52e914b971dc46e543e8d&ups_client_netip=674e7f1d&ups_ts=1583823223&ups_userid=&utid=ODOPFkliAUUCARstNe1IszJU&vid=XNDUzNTU1ODUyOA%3D%3D&vkey=Bf855de67c46449a60c84678792a592e2&sm=1&operate_type=0&dre=u37&si=73&eo=1&dst=1&iv=0&s=0a894d74f8f44a129362&bc=2",
+          "height": 218
+        },
+        {
+          "audio_lang": "yue",
+          "milliseconds_audio": 6419733,
+          "milliseconds_video": 6419750,
+          "segs": [
+            {
+              "size": 423737148,
+              "total_milliseconds_video": 6419750,
+              "total_milliseconds_audio": 6419733,
+              "fileid": "oss://yk-flv-sh/05000900005E4936D1A6DB505CF07D98A3BA2C-0E7A-4691-8F40-6878D5DC66C2.m3u8"
+            }
+          ],
+          "stream_ext": {
+            "firstSliceDur": 10000,
+            "hlsTags": "EXT-X-PRIVINF",
+            "firstSlicePos": 0,
+            "hls_duration": 6419750,
+            "frameAlign": 1,
+            "firstSliceSequenceNum": 0,
+            "hls_subtitle": "default",
+            "isNewHd": 0,
+            "hls_size": 423737148,
+            "firstSliceSize": 505908,
+            "oss_bucket": 2,
+            "hls_logo": "none",
+            "firstSlice": "05000900005E4936D1A6DB505CF07D98A3BA2C-0E7A-4691-8F40-6878D5DC66C2-00001.ts"
+          },
+          "size": 423737148,
+          "subtitle_lang": "default",
+          "media_type": "standard",
+          "transfer_mode_org": "http",
+          "drm_type": "default",
+          "stream_type": "mp5hd",
+          "width": 960,
+          "logo": "none",
+          "m3u8_url": "http://valipl.cp31.ott.cibntv.net/69748B10B194A71EA0EBF3CBB/05000900005E4936D1A6DB505CF07D98A3BA2C-0E7A-4691-8F40-6878D5DC66C2-1-110.m3u8?ccode=0502&duration=6419&expire=18000&psid=79ddc25517f52e914b971dc46e543e8d&ups_client_netip=674e7f1d&ups_ts=1583823223&ups_userid=&utid=ODOPFkliAUUCARstNe1IszJU&vid=XNDUzNTU1ODUyOA%3D%3D&vkey=Bd6d0e235d064845f33271e8e185e8dd3&sm=1&operate_type=0&dre=u37&si=73&eo=1&dst=1&iv=0&s=0a894d74f8f44a129362&bc=2",
+          "height": 434
+        },
+        {
+          "audio_lang": "yue",
+          "milliseconds_audio": 6419733,
+          "milliseconds_video": 6419750,
+          "segs": [
+            {
+              "size": 733410372,
+              "total_milliseconds_video": 6419750,
+              "total_milliseconds_audio": 6419733,
+              "fileid": "oss://yk-flv-sh/05000A00005E4936D1A6DB505CF07DEE70F7B8-99AB-4A67-9FFA-45DECB9382D7.m3u8"
+            }
+          ],
+          "stream_ext": {
+            "firstSliceSequenceNum": 0,
+            "hls_subtitle": "default",
+            "firstSliceDur": 10000,
+            "hlsTags": "EXT-X-PRIVINF",
+            "firstSlicePos": 0,
+            "hls_size": 733410372,
+            "hls_duration": 6419750,
+            "firstSliceSize": 911612,
+            "frameAlign": 1,
+            "oss_bucket": 2,
+            "hls_logo": "none",
+            "firstSlice": "05000A00005E4936D1A6DB505CF07DEE70F7B8-99AB-4A67-9FFA-45DECB9382D7-00001.ts"
+          },
+          "size": 733410372,
+          "subtitle_lang": "default",
+          "media_type": "standard",
+          "transfer_mode_org": "http",
+          "drm_type": "default",
+          "stream_type": "mp5hd2",
+          "width": 1280,
+          "logo": "none",
+          "m3u8_url": "http://valipl.cp31.ott.cibntv.net/697510E0DB24171ADA3B96665/05000A00005E4936D1A6DB505CF07DEE70F7B8-99AB-4A67-9FFA-45DECB9382D7-1-110.m3u8?ccode=0502&duration=6419&expire=18000&psid=79ddc25517f52e914b971dc46e543e8d&ups_client_netip=674e7f1d&ups_ts=1583823223&ups_userid=&utid=ODOPFkliAUUCARstNe1IszJU&vid=XNDUzNTU1ODUyOA%3D%3D&vkey=B24b1edb6413ade1d56369c78627e845a&sm=1&operate_type=0&dre=u37&si=73&eo=1&dst=1&iv=0&s=0a894d74f8f44a129362&bc=2",
+          "height": 578
+        },
+        {
+          "audio_lang": "yue",
+          "milliseconds_audio": 6419728,
+          "milliseconds_video": 6419760,
+          "segs": [
+            {
+              "size": 29321129,
+              "cdn_url": "http://vali-dns.cp31.ott.cibntv.net/6975361067D4671CF34832F82/03000811005E3C6379A6DB505CF07DE0CF4B38-F38A-4BC0-A3B7-0BA17864CC4D.mp4?ccode=0502&duration=390&expire=18000&psid=79ddc25517f52e914b971dc46e543e8d&ups_client_netip=674e7f1d&ups_ts=1583823223&ups_userid=&utid=ODOPFkliAUUCARstNe1IszJU&vid=XNDUzNTU1ODUyOA%3D%3D&vkey=B059c24b6081fad957c8915a5660f60c3&eo=1&bc=2&dre=u17&si=45&dst=1",
+              "total_milliseconds_video": 390000,
+              "total_milliseconds_audio": 389932,
+              "secret": "6975361067D4671CF34832F82",
+              "key": "88eeb066f4ed958c262190ca",
+              "fileid": "03000811005E3C6379A6DB505CF07DE0CF4B38-F38A-4BC0-A3B7-0BA17864CC4D"
+            }
+          ],
+          "stream_ext": {
+            "hls_subtitle": "default",
+            "isNewHd": 0,
+            "subtitle_lang": "default",
+            "hls_size": 508534924,
+            "hls_duration": 6419750,
+            "one_seg_flag": 0,
+            "oss_bucket": 2,
+            "hls_logo": "none"
+          },
+          "size": 507620234,
+          "subtitle_lang": "default",
+          "media_type": "standard",
+          "drm_type": "default",
+          "stream_type": "mp4hd",
+          "width": 960,
+          "logo": "none",
+          "m3u8_url": "http://valipl.cp31.ott.cibntv.net/657307CCAFE327148F15935CD/03000600005E4936D1A6DB505CF07DC8410CDA-A718-465F-BFD1-9D1F2001CC82-1-110.m3u8?ccode=0502&duration=6419&expire=18000&psid=79ddc25517f52e914b971dc46e543e8d&ups_client_netip=674e7f1d&ups_ts=1583823223&ups_userid=&utid=ODOPFkliAUUCARstNe1IszJU&vid=XNDUzNTU1ODUyOA%3D%3D&vkey=B53a108a888e7f7c2fc4b117a57c213ab&sm=1&operate_type=0&dre=u37&si=73&eo=1&dst=1&iv=0&s=0a894d74f8f44a129362&bc=2",
+          "height": 434
+        },
+        {
+          "audio_lang": "yue",
+          "milliseconds_audio": 6419724,
+          "milliseconds_video": 6419760,
+          "segs": [
+            {
+              "size": 25476203,
+              "cdn_url": "http://vali-dns.cp31.ott.cibntv.net/69743A90B6A33714FA7E8492D/03000C2E005E3C6379A6DB505CF07D010DAFDF-7405-457E-8447-AB0355429DD9.mp4?ccode=0502&duration=140&expire=18000&psid=79ddc25517f52e914b971dc46e543e8d&ups_client_netip=674e7f1d&ups_ts=1583823223&ups_userid=&utid=ODOPFkliAUUCARstNe1IszJU&vid=XNDUzNTU1ODUyOA%3D%3D&vkey=Be152a88e417b5a6d868d75bc1a897016&eo=1&bc=2&dre=u17&si=45&dst=1",
+              "total_milliseconds_video": 140000,
+              "total_milliseconds_audio": 139923,
+              "secret": "69743A90B6A33714FA7E8492D",
+              "key": "311f18753ba80dbc282efde8",
+              "fileid": "03000C2E005E3C6379A6DB505CF07D010DAFDF-7405-457E-8447-AB0355429DD9"
+            },
+            {
+              "size": 35552726,
+              "cdn_url": "http://vali-dns.cp31.ott.cibntv.net/6773B33E47E3E7199800C384E/03000C2E015E3C6379A6DB505CF07D010DAFDF-7405-457E-8447-AB0355429DD9.mp4?ccode=0502&duration=140&expire=18000&psid=79ddc25517f52e914b971dc46e543e8d&ups_client_netip=674e7f1d&ups_ts=1583823223&ups_userid=&utid=ODOPFkliAUUCARstNe1IszJU&vid=XNDUzNTU1ODUyOA%3D%3D&vkey=Bfdea326f152bd233e3c6865cb78158b3&eo=1&bc=2&dre=u17&si=45&dst=1",
+              "total_milliseconds_video": 140000,
+              "total_milliseconds_audio": 140016,
+              "secret": "6773B33E47E3E7199800C384E",
+              "key": "304289c2dfbff793262190ca",
+              "fileid": "03000C2E015E3C6379A6DB505CF07D010DAFDF-7405-457E-8447-AB0355429DD9"
+            },
+            {
+              "size": 29716782,
+              "cdn_url": "http://vali-dns.cp31.ott.cibntv.net/65732BECDB33A717EA5D1321F/03000C2E025E3C6379A6DB505CF07D010DAFDF-7405-457E-8447-AB0355429DD9.mp4?ccode=0502&duration=140&expire=18000&psid=79ddc25517f52e914b971dc46e543e8d&ups_client_netip=674e7f1d&ups_ts=1583823223&ups_userid=&utid=ODOPFkliAUUCARstNe1IszJU&vid=XNDUzNTU1ODUyOA%3D%3D&vkey=B93b56fd617f3627e05bb2c906dd656d5&eo=1&bc=2&dre=u17&si=45&dst=1",
+              "total_milliseconds_video": 140000,
+              "total_milliseconds_audio": 139993,
+              "secret": "65732BECDB33A717EA5D1321F",
+              "key": "f5e5717820e26ec0282efde8",
+              "fileid": "03000C2E025E3C6379A6DB505CF07D010DAFDF-7405-457E-8447-AB0355429DD9"
+            }
+          ],
+          "stream_ext": {
+            "hls_subtitle": "default",
+            "subtitle_lang": "default",
+            "hls_size": 1442781560,
+            "hls_duration": 6419750,
+            "one_seg_flag": 0,
+            "oss_bucket": 2,
+            "hls_logo": "none"
+          },
+          "size": 1542692647,
+          "subtitle_lang": "default",
+          "media_type": "standard",
+          "drm_type": "default",
+          "stream_type": "mp4hd3v2",
+          "width": 1920,
+          "logo": "none",
+          "m3u8_url": "http://valipl.cp31.ott.cibntv.net/6773838E69A397177EF422E24/03000900005E4936D1A6DB505CF07DEF428287-C6AE-420A-93CB-AEF600045E8E-1-110.m3u8?ccode=0502&duration=6419&expire=18000&psid=79ddc25517f52e914b971dc46e543e8d&ups_client_netip=674e7f1d&ups_ts=1583823223&ups_userid=&utid=ODOPFkliAUUCARstNe1IszJU&vid=XNDUzNTU1ODUyOA%3D%3D&vkey=Bfa06e27d61854d9bbed19cd81b38f68c&sm=1&operate_type=0&dre=u37&si=73&eo=1&dst=1&iv=0&s=0a894d74f8f44a129362&bc=2",
+          "height": 868
+        }
+      ],
+      "uploader": {
+        "crm_level": 12,
+        "reason": "优酷院线官方视频空间",
+        "uid": "UMzg5ODE2MTgw",
+        "fan_count": 0,
+        "avatar": {
+          "small": "https://r1.ykimg.com/0130391F455629F413790C05CF07DD57A8FD59-86E4-F390-E681-A41A995DE808",
+          "big": "https://r1.ykimg.com/0130391F455629F41209FD05CF07DD70724791-DDBB-6813-0E95-8BEBA021F60B",
+          "middle": "https://r1.ykimg.com/0130391F455629F412DC7405CF07DD5A3DA711-4473-BAD7-4F6A-809CA817B983",
+          "large": "https://r1.ykimg.com/0130391F455629F41109D105CF07DD338E1BAC-8949-263A-ABB9-53052FF82FB8",
+          "xlarge": "https://r1.ykimg.com/0130391F455629F41109D105CF07DD338E1BAC-8949-263A-ABB9-53052FF82FB8"
+        },
+        "show_brand": 0,
+        "certification": false,
+        "homepage": "http://i.youku.com/u/UMzg5ODE2MTgw",
+        "username": "优酷会员"
+      },
+      "ups": {
+        "ups_ts": "1583823223",
+        "ups_client_netip": "103.78.127.29",
+        "psid": "79ddc25517f52e914b971dc46e543e8d"
+      },
+      "remoteDebug": [
+        
+      ],
+      "user": {
+        "uid": "",
+        "ip": "103.78.127.29",
+        "ytid": ""
+      },
+      "adDomain": {
+        "wifi": "vali.cp31.ott.cibntv.net",
+        "cellular": "m-vali.cp31.ott.cibntv.net"
+      }
+    },
+    "e": {
+      "code": 0,
+      "provider": "hsfprovider",
+      "desc": ""
+    }
+  },
+  "v": "1.1",
+  "api": "mtop.youku.play.ups.appinfo.get"
+})
