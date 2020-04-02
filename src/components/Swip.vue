@@ -6,39 +6,43 @@
 				<b-carousel-slide :caption="item.vname" :text="item.vintro" :img-src="item.imgUrl"></b-carousel-slide>
 			</a>
 		</b-carousel>
-
 	</div>
 </template>
 
 <script>
 	import axios from 'axios'
-
+	import reqUrl from '../request.js'
 	export default {
 		data() {
 			return {
 				slide: 0,
 				sliding: null,
-				reqUrl: 'http://localhost:8080/youqu/index/requestCarouse',
+				reqUrl: reqUrl,
 				reqData: []
 			}
 		},
 		methods: {
 			onSlideStart(slide) {
 				this.sliding = true
+				
 			},
 			onSlideEnd(slide) {
 				this.sliding = false
 			},
 			requsetCarouse: function() {
-				axios.get(this.reqUrl).then(res => {
+				axios.get(this.reqUrl+'/index/requestCarouse').then(res => {
 					//console.log(res.data.data)
 					this.reqData = res.data.data
 					//console.log(this.reqData)
+				
 				})
-			}
+			},
+			
+			
 		},
 		mounted: function() {
 			this.requsetCarouse()
+			
 		}
 	}
 </script>

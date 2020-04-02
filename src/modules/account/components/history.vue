@@ -48,13 +48,14 @@
 
 <script>
 	import axios from 'axios'
+	import reqUrl from '../../../request.js'
 	export default {
 		data() {
 			return {
 				todays: [],
 				earlierdays: [],
 				data:[],
-				reqUrl: 'http://localhost:8080/youqu/account'
+				reqUrl: reqUrl+'/account'
 			}
 		},
 		mounted() {

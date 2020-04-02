@@ -3,6 +3,11 @@ function resolve (dir) {
     return path.join(__dirname, dir)
 }
 module.exports = {
+	publicPath:'./',
+	outputDir:'dist',
+	assetsDir:'static',
+	indexPath: 'index.html',
+	filenameHashing:true,
 	pages:{
 		index:{
 			entry:'./src/main.js',

@@ -35,6 +35,7 @@
 
 <script>
 	import axios from 'axios'
+	import reqUrl from '../../request.js'
 	export default {
 
 		data() {
@@ -43,7 +44,8 @@
 				againPassword: "",
 				name: "",
 				email: "",
-				password: ""
+				password: "",
+				reqUrl :reqUrl+'/account'
 			}
 		},
 		methods: {
@@ -68,7 +70,7 @@
 				}
 			},
 			mysubmit: function() {
-				var regUrl = "http://localhost:8080/youqu/account/register"
+				
 				if (this.password === this.againPassword) {
 					
 					let data = {
@@ -77,7 +79,7 @@
 						email: this.email
 
 					}
-					axios.post(regUrl, data).then(res => {
+					axios.post(this.reqUrl+'/register', data).then(res => {
 						if(res.data.code === "200"){
 							this.$message({
 								message: '恭喜你!注册成功，即将跳转主页...',

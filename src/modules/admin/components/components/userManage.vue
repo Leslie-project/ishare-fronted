@@ -27,11 +27,12 @@
 
 <script>
 	import axios from 'axios'
+	import reqUrl from '../../../../request.js'
 	export default {
 		data() {
 			return {
 				userList: [],
-				reqUrl:'http://localhost:8080/youqu/admin'
+				reqUrl: reqUrl+'/admin'
 			}
 		},
 		mounted(){

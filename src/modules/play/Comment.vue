@@ -29,19 +29,22 @@
 
 <script>
 	import axios from 'axios'
+	import reqUrl from '../../request.js'
 	export default {
 		data() {
 			return {
 				textarea: "",
-				vcode: "00028",
+				vcode: "",
 				isLogin: localStorage.getItem('flag') == "1" ? true : false,
 				drawer: false,
-				reqUrl: "http://localhost:8080/youqu/play",
+				reqUrl: reqUrl+"/play",
 				comments: [
 				]
 			}
 		},
-
+		mounted() {
+			this.vcode = window.location.href.split("?")[1].split("=")[1]
+		},
 		methods: {
 			listen(event){
 				if (event.keyCode === 13) {

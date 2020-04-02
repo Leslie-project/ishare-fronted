@@ -134,6 +134,7 @@
 <script>
 	import Foot from '../../components/Foot.vue'
 	import axios from 'axios'
+	import reqUrl from '../../request.js'
 	export default {
 		components: {
 			Foot
@@ -146,7 +147,7 @@
 				total: 100,
 				score: 3.7,
 				key: '',
-				reqUrl: 'http://localhost:8080/youqu/play',
+				reqUrl: reqUrl+'/play',
 				result: []
 			}
 		},

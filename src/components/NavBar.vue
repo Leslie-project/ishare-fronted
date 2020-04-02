@@ -69,6 +69,7 @@
 </template>
 <script>
 	import axios from 'axios'
+	import reqUrl from '../request.js'
 	export default {
 		name: "Navbar",
 		data() {
@@ -93,7 +94,7 @@
 						trigger: 'blur'
 					}]
 				},
-				reqUrl: "http://localhost:8080/youqu/account",
+				reqUrl: reqUrl+'/account',
 			}
 		},
 		mounted() {

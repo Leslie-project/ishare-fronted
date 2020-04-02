@@ -56,6 +56,7 @@
 </template>
 
 <script>
+	import reqUrl from '../../../../request.js'
 	export default {
 		data() {
 			return {
@@ -122,7 +123,7 @@
 					// 	trigger: 'change'
 					// }],
 				},
-				reqUrl: 'http://localhost:8080/youqu/admin'
+				reqUrl: reqUrl+'/admin'
 			};
 		},
 		methods: {

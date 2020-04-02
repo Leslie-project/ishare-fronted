@@ -101,6 +101,7 @@
 </template>
 <script>
 	import axios from 'axios'
+	import reqUrl from '../../../request.js'
 	export default {
 		data() {
 			return {
@@ -121,7 +122,7 @@
 				},
 				formLabelWidth: '80px',
 				timer: null,
-				reqUrl: 'http://localhost:8080/youqu/account',
+				reqUrl: reqUrl+'/account',
 				playerOptions: {
 					playbackRates: [0.5, 1.0, 1.5, 2.0], // 可选的播放速度
 					autoplay: false, // 如果为true,浏览器准备好时开始回放。

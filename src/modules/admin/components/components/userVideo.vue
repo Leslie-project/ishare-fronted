@@ -25,11 +25,12 @@
 
 <script>
 	import axios from 'axios'
+	import reqUrl from '../../../../request.js'
 	export default {
 		data() {
 		  return {
 		    userVideos: [],
-			reqUrl:'http://localhost:8080/youqu/admin'
+			reqUrl:reqUrl+'/admin'
 		  }
 		},
 		mounted() {

@@ -28,6 +28,7 @@
 
 <script>
 	import axios from 'axios'
+	import reqUrl from '../../request.js'
 	export default {
 		data() {
 			return {
@@ -35,7 +36,7 @@
 				currentTime:"1:18:13",
 				videoCode:'',
 				videoSrc:[],
-				localUrl:'http://localhost:8080/youqu/play',
+				reqUrl:reqUrl+'/play',
 				playerOptions: {
 					playbackRates: [0.7, 1.0, 1.5, 2.0], // 可选的播放速度
 					autoplay: false, // 如果为true,浏览器准备好时开始回放。
@@ -67,7 +68,7 @@
 		
 		methods: {
 			getVideoSrc(){
-				axios.get(this.localUrl+'/playSource',{
+				axios.get(this.reqUrl+'/playSource',{
 					params:{
 						videoCode:this.videoCode
 					}
@@ -93,7 +94,7 @@
 				if(localStorage.getItem('flag') === "1"){
 					axios.post(this.localUrl+'/uploadRec',{
 						userEmail:localStorage.getItem("useremail"),
-						vcode:'00028',
+						vcode:this.videoCode,
 						vwatchTimeLength:Math.floor(player.currentTime()) ,
 						watchTime:new Date(),
 						vlength:Math.floor(player.duration()),

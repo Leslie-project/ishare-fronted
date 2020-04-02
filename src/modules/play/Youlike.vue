@@ -28,13 +28,14 @@
 </template>
 <script>
 	import axios from 'axios'
+	import reqUrl from '../../request.js'
 	export default {
 		data() {
 			return {
 				videoCode:'',
 				youlikes: [],
 				screenWidth: document.body.clientWidth,
-				reqUrl:'http://localhost:8080/youqu/play'
+				reqUrl: reqUrl+'/play'
 			}
 		},
 		mounted() {

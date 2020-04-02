@@ -27,6 +27,8 @@ import 'bootstrap-vue/dist/bootstrap-vue.css'
 
 import router from './router.js'
 
+import '../../request.js'
+
 new Vue({
 	router,
   render: h => h(Account),

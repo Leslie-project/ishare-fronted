@@ -3,8 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build"
+    "local": "vue-cli-service serve --mode local ",
+	"pro" : "vue-cli-service serve --mode pro",
+    "build:local": "vue-cli-service build --mode local",
+	"build:pro": "vue-cli-service build --mode pro"
   },
   "dependencies": {
     "axios": "^0.19.2",

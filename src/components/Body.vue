@@ -211,6 +211,7 @@
 
 <script>
 	import axios from 'axios'
+	import reqUrl from '../request.js'
 	export default {
 		data() {
 			return {
@@ -226,7 +227,7 @@
 				],
 				imgSrc: '../assets/video-order/',
 				imgEnd: '.png',
-				reqUrl: 'http://localhost:8080/youqu/index/requestData',
+				reqUrl: reqUrl,
 				aiQing: [],
 				dongZuo: [],
 				juQing: [],
@@ -239,7 +240,7 @@
 		},
 		methods: {
 			requestData() {
-				axios.get(this.reqUrl).then(res => {
+				axios.get(this.reqUrl+'/index/requestData').then(res => {
 					var _data = res.data.data
 					this.xinPian = JSON.parse(_data.xinPian)
 					this.dongZuo = JSON.parse(_data.dongZuo)
