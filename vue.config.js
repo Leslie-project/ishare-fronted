@@ -52,7 +52,7 @@ module.exports = {
 				}
 			}
 		},
-		port: 8090,
+		port: 8091,
 		open: true
 	}
 }
